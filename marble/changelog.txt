@@ -5,11 +5,12 @@ Device maintainer: MAULSxSMG
 
 Highlights & Device Specific Changes:
 =====================================
-28th October, 2024
+10th November, 2025
 
-* Initial Official release
-* Added Dolby Vision
-* Update Media Codecs
-* Optimize Native, Dex2oat
-* Prop: Remove Froce Triple
-* Enable Mediaserver 64bit 
+* Update blobs and firmware from OS2.0.204.0.VLFMIXM
+* Update blobs GPS from OS2.0.204.0.VLFMIXM
+* Add New GameBar Application
+* Fixed! Tracking gps error calibrate
+* Fixing connecting BLE (smartwatch,etc)
+* Batterysecret
+* Improve stability & performance .

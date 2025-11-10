@@ -5,6 +5,11 @@ Device maintainer: Hirokixd
 
 Highlights & Device Specific Changes:
 ====================================
+# 10 November 2025
+- Initial afterlife Android 16 Release
+- Include MiuiCamera
+
+-----------------------------------
  # 03 August 2024:
 
 - Initial Afterlife 7.0 Android 14 UQPR2 Release

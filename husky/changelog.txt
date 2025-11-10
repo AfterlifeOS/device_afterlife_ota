@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: husky
+Device maintainer: Iverz
+
+Highlights & Device Specific Changes:
+====================================
+ # 9 November 2025
+- Initial Official release
+- Add face unlock
+- GApps build

@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "noticesa",
+            "oem": "xiaomi",
+            "device": "Redmi Note 14 4G",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_tanzanite-8.1-happiness-official_20251110-gapps.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/tanzanite/AfterlifeOS_tanzanite-8.1-happiness-official_20251110-gapps.zip/download",
+            "timestamp": 1762796436,
+            "md5": "dced704cb795c159ac72695b6a0751ce",
+            "sha256": "674792d079ab7b2613855e948920b6a2983f97437da025d79fbd5f99a122fb77",
+            "size": 2259411735,
+            "buildtype": "OFFICIAL",
+            "forum": "https://t.me/itseunbinn",
+            "telegram": "https://t.me/noticesa"
+        }
+    ]
+}

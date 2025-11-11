@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: tanzanite
+Device maintainer: noticesa
+
+Highlights & Device Specific Changes:
+# 11 November 2025
+- Initial afterlife Android 16 Release
+- KSUN + SUSFS Already included
+
+

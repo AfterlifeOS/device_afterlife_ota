@@ -1,0 +1,41 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Redmi 10C
+Device maintainer: Iverz
+
+Highlights & Device Specific Changes:
+=====================================
+1st October, 2024
+
+- Initial Official release For A14
+- Fix fingerprint gesture on kernel side
+- Fix VoLTE in Indonesian Carriers (untested)
+- Shipped with CAF-base kernel
+- Signed build
+- DT2W does not work on FocalTech display (fts_ts)
+
+-------------------------------------
+5th November, 2024
+
+- Sync to latest source
+- Improve memory management
+- Drop Pixel Charging
+- Add Window Blur
+- Ship AfterEcho (Dolby)
+- MEET_BASIC by default, update from settings to get MEET_DEVICE
+- Etc
+
+-------------------------------------
+3rd December, 2024
+
+- Sync to latest source
+- Fix spoofing issue
+- GApps and Vanilla Build
+- Cleanup CarrierConfig and use stock ims
+- Drop Window Blur
+- Clean up surfaceflinger props
+- Sync some graphic props from Redfin
+- Rework OMX blobs
+- Add and increase 5 GHz network signal tolerance
+- Clean up props
+- Many improvements

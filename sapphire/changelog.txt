@@ -1,0 +1,19 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Redmi Note 13 4G
+Device maintainer: bmwtheseries
+
+Highlights & Device Specific Changes:
+=====================================
+15th June, 2024
+
+* Initial release
+* Build Vanilla and CoreGApps
+
+-------------------------------------
+8th December, 2024
+
+* Vanilla Build
+* Signed Build
+* Added Miuicamera
+* Fixed Infared Blaster

@@ -5,11 +5,34 @@ Device maintainer: unsatifsed27
 
 Highlights & Device Specific Changes:
 ====================================
-
 8 Agustus 2024
 
-- Initial Release A14
+* Initial Release A14
 
+------------------------------------
+27th August, 2024
 
-thanks for :
-@xSkyyHinohara, @aepranata for helping
+* Update blobs from sweet_k6a OS1.0.6.0.THGMIXM
+* Added OP Dolby
+* Added Viper4Fx
+* Camera Leica mod 8.3
+* Upstream kernel into 4.14.352
+
+------------------------------------
+1st November, 2024
+
+* Fixed Dt2w
+* Added Xiaomi Dolby
+* Camera Leica mod 8.3
+* Upstream kernel into 4.14.353
+* Added Ksu
+
+------------------------------------
+3rd December, 2024
+
+* Update blobs from sweet_k6a OS1.0.10.0.THGMIXM
+* Added After Echo like Xiaomi Dolby
+* Camera Leica mod 8.3
+* Upstream kernel into 4.14.355
+* Merge tag 'LA.UM.9.1.r1-16400-SMxxx0.QSSI14.0
+* Added Ksu

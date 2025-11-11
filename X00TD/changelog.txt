@@ -4,7 +4,7 @@ Device: X00TD
 Device maintainer: Romeo
 
 Highlights & Device Specific Changes:
-====================================
+=====================================
 29 July, 2024
 
 * Initial Official release For A14
@@ -14,14 +14,24 @@ Highlights & Device Specific Changes:
 * Support KSU lates
 * Clean flash always recommended
 
+-------------------------------------
 21st Sep, 2024
 
 • Update device tree with optimizations for QPR3
 • 4.19.318 TheOneMemory as default kernel with kernelSU
 
+-------------------------------------
 26th Oct, 2024
+
 • Roll back to oreo Fp
 • Enable frame pacing for smoother visual performance
 • reworks some default overlay
 • Drop DiracSound
 • Reset notification leds on boot
+
+-------------------------------------
+27th Nov, 2024
+
+• Build AfterEcho™
+• Sync With 4.19.318 TheOneMemory Kernel
+• Signed Build

@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "aepranata",
+            "oem": "Redmi",
+            "device": "Redmi 5",
+            "version": "7.0",
+            "codename": "Patience",
+            "filename": "AfterLife-V7.0-Patience-OFFICIAL-rosy-20240728-Vanilla.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/rosy/AfterLife-V7.0-Patience-OFFICIAL-rosy-20240728-Vanilla.zip/download",
+            "timestamp": 1722205533,
+            "md5": "e2afad3a3486da34b2087a7a5cd14f63",
+            "sha256": "79ca5344e64b0b2f94e7ee40b674d5c8984d43b774962d1422e94e66f8f87fc9",
+            "size": 1039663306,
+            "buildtype": "daily",
+            "forum": "https://t.me/a3discussion",
+            "telegram": "https://t.me/aepranata"
+        }
+    ]
+}

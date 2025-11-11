@@ -4,7 +4,8 @@ Device: surya
 Device maintainer: Skyy丨アラタ
 
 Highlights & Device Specific Changes:
-====================================
+=====================================
+
  # 02 August 2024:
 - Initial release for AftelifeOS A14 UQPR2
 - surya: Set double_tap mode via powerhint
@@ -35,6 +36,7 @@ Highlights & Device Specific Changes:
 - surya: MiuiCamera: Included Leica Camera
 - surya: Play integrity should passed by default
 - surya: Firmware Already included
+-------------------------------------
 
 # 19 Septeber 2024:
 - Set LTE+ threshold bandwidth to 0 by default
@@ -46,8 +48,15 @@ Highlights & Device Specific Changes:
 - Fix low mic volume on voip
 - Switch to Shiryu:[Raghael] for kernel
 - Synced with latest source
+-------------------------------------
 
 # 24 October 2024:
 - Bring back LeicaCam 4.7
 - Add support for AfterEcho (AfterlifeOS Dolby Atmos)
 - Rounded screen decorations for Screenshots and Screen Records
+-------------------------------------
+
+# 28 November 2024
+- Synced with latest source
+- Build LawnIcons for themed icons
+- Switch to Anonymous:[Legacy] kernel

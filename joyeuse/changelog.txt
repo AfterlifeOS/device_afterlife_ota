@@ -4,15 +4,22 @@ Device: Redmi note 9 Pro (Global)
 Device maintainer: cursed4d
 
 Highlights & Device Specific Changes:
-====================================
+=====================================
 23th Sep, 2024
 
 • Initial Release
 • Leica Camera thanks to @itzdfplayer
 
-
+-------------------------------------
 25th Oct, 2024
 • Build AfterEcho
 • Fix QS lag if using transparent blur
 • Fix FPS counter for game mode
+• Fixes here and there
+
+-------------------------------------
+28th Nov, 2024
+• Switch back to power-libperfmgr
+• Fixes dual sim reset
+• Switch to AVC 3.1 for screen recording
 • Fixes here and there

@@ -13,6 +13,7 @@ Highlights & Device Specific Changes:
 * Enforcing, User & Signed Build
 * Play integrity pass by default
 
+-------------------------------------
 25th September, 2024
 
 * Latest AfterlifeOS A14 source upstream
@@ -55,6 +56,7 @@ Highlights & Device Specific Changes:
 * Enforcing, User & Signed Build!
 * More improvements & bug fixes!
 
+-------------------------------------
 27th October, 2024
 
 * Latest AfterlifeOS A14 source upstream
@@ -74,3 +76,14 @@ Highlights & Device Specific Changes:
 * If you want any particular google apps, flash NikGapps-U Addons immediately after flashing gapps in recovery before the first boot.
 * Enforcing, User & Signed Build!
 * More improvements & bug fixes!
+
+-------------------------------------
+05th December, 2024
+* Sync with Latest AfterlifeOS A14 source upstream
+* November security patch
+* Ship with prebuilt lawnicons
+* Declare WFD lib as symlink during extraction
+* Convert WiFi firmware symlinks to install_symlink targets
+* Set 4gb zram for all ram models
+* Use AOSP default Codec2/OMX ranks
+* Switch to QTI Memtrack AIDL HAL

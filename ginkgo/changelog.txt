@@ -6,6 +6,7 @@ Device maintainer: Hirokixd
 Highlights & Device Specific Changes:
 ====================================
  # 03 August 2024:
+
 - Initial Afterlife 7.0 Android 14 UQPR2 Release
 - Fix bug where fingerprint always vibrates when touched
 - Fix low brightness
@@ -19,3 +20,47 @@ Highlights & Device Specific Changes:
 - Added speed preopt for Trebuchet/SystemUI/Settings
 - Include MiuiCamera & potrait mode work properly
 - Signed build with private key
+
+-----------------------------------
+ # 21 September 2024
+
+• Use QCOM implementation for audio effects
+• Import Dolby Atmos from OnePlus 9R
+• Adjust read/write buffer size
+• Set zramswap for performance
+• Enable camera override format from reserved
+• Disable slow blur effects
+• Kang gboard padding from panther
+• Use scheduler tuning for early boot
+• Disable power saving during boot
+• Reduce boot time
+• Add touch improvement props
+
+-----------------------------------
+ # 09 November 2024
+
+- Switch to fbev2 encryption
+- Change to ANX MiuiCamera
+- Change default kernel to Ryzen kernel
+- Switch to QTI Memtrack AIDL HAL
+
+-----------------------------------
+ # 29 November 2024
+
+- Enable some android go features
+- Added Charging Controller
+- Build wcnss_service from source
+- Enable ro.config.avoid_gfx_accel
+
+-----------------------------------
+ # 11 January 2025
+
+- Import power HAL AIDL implementation
+- Switch to Retrofit Dynamic Partition
+- Use FUSE passthrough by default
+- Build and enable fastbootd
+- Apply dex2oat optimizations
+- Drop vendor mount point symlinks
+- Add Uclamp tunings
+- Drop SchedBoost from powerhint
+- Change default kernel to Astra-Kernel v1.2

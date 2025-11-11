@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Redmi K20 Pro / Mi 9T Pro (raphael/in)
+Device maintainer: YourDulavai
+
+Highlights & Device Specific Changes:
+====================================
+06th December, 2024
+
+* Initial A14 build from my side
+* AfterEcho aka Dolby included
+* Leica 5.0 included
+* Boolx kernel with KSU and KProfile support
+* Switch to QTI thermal
+* Latest spoofed 786 gpu driver

@@ -6,7 +6,18 @@ Device maintainer: Skyy丨アラタ
 Highlights & Device Specific Changes:
 =====================================
 
- # 02 August 2024:
+# 11 October 2025:
+- Synced with latest source
+- Fixed portrait issue in prev build
+- Fixed more bugs in Leica
+- Add support scanner in Leica
+- Implement torch light control (Flashlight Strenght)
+- More improvement
+- Use Gilver kernel as default kernel
+- Fixed NFC issue in previous build
+-------------------------------------
+
+# 02 August 2024:
 - Initial release for AftelifeOS A14 UQPR2
 - surya: Set double_tap mode via powerhint
 - surya: init: Set permissions for double tap to wake node

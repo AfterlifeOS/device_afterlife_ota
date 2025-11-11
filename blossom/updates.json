@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "Jayed",
+            "oem": "Xiaomi",
+            "device": "Redmi 9a",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_blossom-8.1-happiness-official_20251110-vanilla.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/blossom/AfterlifeOS_blossom-8.1-happiness-official_20251110-vanilla.zip/download",
+            "timestamp": 1762787955,
+            "md5": "eda59d0f09bae1f000a18b244d5b7a48",
+            "sha256": "3541872b2e548146804471c8a67dae94baf1eaf09fc08a52987c4f52259b0e88",
+            "size": 1359963074,
+            "buildtype": "official",
+            "forum": "https://t.me/Jayedupdate",
+            "telegram": "https://t.me/Afterlife_update"
+        }
+    ]
+}

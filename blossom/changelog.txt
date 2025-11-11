@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: blossom
+Device maintainer: Jayed
+
+Highlights & Device Specific Changes:
+====================================
+ # 10 November 2025
+- Initial Official release
+- Add Besloudness
+- Vanila build

@@ -6,7 +6,14 @@ Device maintainer: Skyy丨アラタ
 Highlights & Device Specific Changes:
 =====================================
 
-# 11 October 2025:
+# 13 November 2025 (8.1 HOTFIX):
+- Fixed google login issue
+- Fixed can't open media (in some apps like WhatsApp, Telegram, etc)
+- Fixed some weather icon not showing
+- Optimize perf
+-------------------------------------
+
+# 11 November 2025:
 - Synced with latest source
 - Fixed portrait issue in prev build
 - Fixed more bugs in Leica

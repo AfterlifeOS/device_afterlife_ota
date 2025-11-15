@@ -1,21 +1,13 @@
 Highlights & Device Specific Changes:
-Build type: Weekly
-Device: Poco X6 / Redmi Note 13 Pro 5G
-Device maintainer: franlop77
+Build type: Monthly
+Device: Redmi Note 13 Pro 5G / Poco X6 5G
+Device maintainer: kibria5
 
 Highlights & Device Specific Changes:
 =====================================
-1st November, 2024
-
-• Horus Kernel
-• MiuiCamera
-• XiaomiDolby
-• Update Blobs 1.0.12
--------------------------------------
-2nd December, 2024
-
-• Update vendor blobs from V816.0.17.0.UNRMIXM
-• Switch to oneplus dolby
-• Apply NLSound 4.0 optimization for dolby
-• Switch IllusionX kernel
-• Synced with latest Afterlife changes
+- Improve performance 
+- Improve battery backup
+- Update from OS2.0.204.0.VNRMIXM
+- Upstream kernel
+- KSUN v1.1.1 & SUSFS v1.5.12 Included
+- Misc Changes and Improvement

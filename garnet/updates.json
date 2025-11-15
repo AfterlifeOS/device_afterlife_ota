@@ -1,20 +1,20 @@
 {
     "response": [
         {
-            "maintainer": "aepranata",
-            "oem": "Redmi",
-            "device": "Redmi 5",
-            "version": "7.0",
-            "codename": "Patience",
-            "filename": "AfterLife-V7.0-Patience-OFFICIAL-rosy-20240728-Vanilla.zip",
-            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/rosy/AfterLife-V7.0-Patience-OFFICIAL-rosy-20240728-Vanilla.zip/download",
-            "timestamp": 1722205533,
-            "md5": "e2afad3a3486da34b2087a7a5cd14f63",
-            "sha256": "79ca5344e64b0b2f94e7ee40b674d5c8984d43b774962d1422e94e66f8f87fc9",
-            "size": 1039663306,
-            "buildtype": "daily",
-            "forum": "https://t.me/a3discussion",
-            "telegram": "https://t.me/aepranata"
+            "maintainer": "kibria5",
+            "oem": "Xiaomi",
+            "device": "Redmi Note 13 Pro 5G/Poco X6 5G",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_garnet-8.1-happiness-official_20251115-gapps.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/garnet/AfterlifeOS_garnet-8.1-happiness-official_20251115-gapps.zip/download",
+            "timestamp": 1763232340,
+            "md5": "968a3c58ef165cb2831f93f3ae6478e8",
+            "sha256": "dfefa8dc8dcc13d35d02717d593d4d87533f0f58d876ccb78cbe4b8032102575",
+            "size": 2715769771,
+            "buildtype": "OFFICIAL",
+            "forum": "",
+            "telegram": "https://t.me/kibria5"
         }
     ]
 }

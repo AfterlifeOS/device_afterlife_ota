@@ -1,37 +1,17 @@
 Highlights & Device Specific Changes:
 Build type: Official
 Device: X00TD
-Device maintainer: Romeo
+Device maintainer: aeranata
 
 Highlights & Device Specific Changes:
 =====================================
-29 July, 2024
+October 02, 2025
 
-* Initial Official release For A14
-* Use This TWRP https://t.me/XZone_Ctrl/715
-* Recommended FW 063/087
-* Recommended NikGapps Basic
-* Support KSU lates
-* Clean flash always recommended
+• Initial Official releas for Andlroid 16
 
 -------------------------------------
-21st Sep, 2024
+November 16, 2025
 
-• Update device tree with optimizations for QPR3
-• 4.19.318 TheOneMemory as default kernel with kernelSU
-
--------------------------------------
-26th Oct, 2024
-
-• Roll back to oreo Fp
-• Enable frame pacing for smoother visual performance
-• reworks some default overlay
-• Drop DiracSound
-• Reset notification leds on boot
-
--------------------------------------
-27th Nov, 2024
-
-• Build AfterEcho™
-• Sync With 4.19.318 TheOneMemory Kernel
-• Signed Build
+• Fix UBS connection
+• Add FuseFS support
+• Shipped with A³-X00TD kernel

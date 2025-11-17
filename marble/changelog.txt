@@ -5,6 +5,15 @@ Device maintainer: MAULSxSMG
 
 Highlights & Device Specific Changes:
 =====================================
+
+17 November, 2025
+
+* Fixed! loudspeaker audio in/out call
+* Fixed! Cost performance in all time
+* Nuke prop performance
+* Cleanup properties vendor
+* Improve stability and performance.
+
 28th October, 2024
 
 * Nuke powerhint.json

@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "franlop77",
+            "oem": "POCO",
+            "device": "POCO F7",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_onyx-8.1-happiness-official_20251117-gapps.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/onyx/AfterlifeOS_onyx-8.1-happiness-official_20251117-gapps.zip/download",
+            "timestamp": 1763377086,
+            "md5": "1483363518515e759f696cf129566914",
+            "sha256": "962277f07923f43aa9a85aad97acf54d4d1ef346c94356785d5794dc0175d1ca",
+            "size": 4152958250,
+            "buildtype": "OFFICIAL",
+            "forum": "",
+            "telegram": "https://t.me/franlop77"
+        }
+    ]
+}

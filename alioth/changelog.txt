@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: alioth
+Device maintainer: OnettBoots&Yaseakun
+
+Highlights & Device Specific Changes:
+====================================
+# 18 November 2025
+- Initial afterlife Android 16 Release
+- Include Leica Camera and Oneplus Doby Atmos

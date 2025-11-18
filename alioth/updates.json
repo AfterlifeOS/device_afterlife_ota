@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "OnettBoots&Yaseakun",
+            "oem": "Xiaomi",
+            "device": "POCO F3",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_alioth-8.1-happiness-official_20251118-gapps.zip",
+            "download": "https://www.pling.com/p/2162280",
+            "timestamp": 1763456689,
+            "md5": "2730cffbf82a7b24fa5ddb73eb9bfc4d",
+            "sha256": "ba1d8b6d178a92f84de059800736fe6b8c5d4d1e12173afe83dd5ec95f62c481",
+            "size": 2555657414,
+            "buildtype": "official",
+            "forum": "https://t.me/yaseaprjktchat",
+            "telegram": "https://t.me/Afterlife_update"
+        }
+    ]
+}

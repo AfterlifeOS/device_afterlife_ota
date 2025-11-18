@@ -1,14 +1,13 @@
 Highlights & Device Specific Changes:
-Build type: Weekly
-Device: Redmi 5
-Device maintainer: aepranata
+Build type: Monthly
+Device: POCO F6 / Redmi Turbo 3
+Device maintainer: ramshell688
 
 Highlights & Device Specific Changes:
 ====================================
-26th Oct, 2024
+18th Nov, 2025
 
-• Initial Official release
+• Merged with latest source
 • Added Dolby Atmos
-• Added MiuiCamera
-• Added XiaomiParts
-• Update blobs to V816.0.8.0.UNPMIXM
+• Added Leica Camera
+• And more small changes

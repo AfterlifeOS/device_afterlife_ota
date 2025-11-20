@@ -5,6 +5,15 @@ Device maintainer: OnettBoots&Yaseakun
 
 Highlights & Device Specific Changes:
 ====================================
+# 20 November 2025
+- Fix Developer Option crash
+- Enable Lineage Health service
+- Enabe Battery Health
+- Enhance LE Audio and voice codec configurations
+- Opt out of speaker_layout_channel_mask field
+- Revert "sm8250-common: Move to Xiaomi IR AIDL"
+- Add a property to enable prefetching video
+-------------------------------------
 # 18 November 2025
 - Initial afterlife Android 16 Release
 - Include Leica Camera and Oneplus Doby Atmos

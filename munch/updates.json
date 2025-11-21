@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "Kenskuyy",
+            "oem": "Xiaomi",
+            "device": "POCO F4",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_munch-8.1-happiness-official_20251120-gapps.zip",
+            "download": "https://www.pling.com/p/2162220/",
+            "timestamp": 1763647537,
+            "md5": "f38f8c49bf5532ac8c69e33851f7c3e2",
+            "sha256": "65ba762dc58dd08043942cabe680fa32ec196ce3595f37a72aaef8f3aba7fc52",
+            "size": 2543891915,
+            "buildtype": "OFFICIAL",
+            "forum": "https://t.me/kenskuyyplayground",
+            "telegram": "https://t.me/Kenskuyy"
+        }
+    ]
+}

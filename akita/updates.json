@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "Iverz",
+            "oem": "Google",
+            "device": "Pixel 8a",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_akita-8.1-happiness-official_20251122-gapps.zip",
+            "download": "https://www.pling.com/p/2330261/",
+            "timestamp": 1763805999,
+            "md5": "ce973312315c42458a4de37d2c3b87fd",
+            "sha256": "991374842959ea08825e33168ff26e21ef450af349621c95df9c49ae651e2075",
+            "size": 2920750055,
+            "buildtype": "official",
+            "forum": "https://t.me/+aujRn2-Mj4w0MzBl",
+            "telegram": "https://t.me/asterixiverz"
+        }
+    ]
+}

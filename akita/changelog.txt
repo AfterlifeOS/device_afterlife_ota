@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: akita
+Device maintainer: Iverz
+
+Highlights & Device Specific Changes:
+====================================
+ # 22 November 2025
+- Initial Official release
+- GApps build

@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: rodin
+Device maintainer: Nazephyrus
+
+Highlights & Device Specific Changes:
+====================================
+ # 22 November 2025
+- Initial Official release
+- Gapps build
+- Fix video call whatsapp

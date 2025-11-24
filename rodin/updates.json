@@ -1,9 +1,9 @@
 {
     "response": [
         {
-            "maintainer": "",
-            "oem": "",
-            "device": "",
+            "maintainer": "Nazephyrus",
+            "oem": "Xiaomi",
+            "device": "Poco X7 Pro",
             "version": "8.1",
             "codename": "happiness",
             "filename": "AfterlifeOS_rodin-8.1-happiness-official_20251124-gapps.zip",

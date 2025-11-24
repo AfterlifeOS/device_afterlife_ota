@@ -5,7 +5,7 @@ Device maintainer: Nazephyrus
 
 Highlights & Device Specific Changes:
 ====================================
- # 22 November 2025
+ # 24 November 2025
 - Initial Official release
 - Gapps build
 - Fix video call whatsapp

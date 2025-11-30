@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: Zorn
+Device maintainer: SMGReborn
+
+Highlights & Device Specific Changes:
+====================================
+ # 27 November 2025
+- Gapps build
+- Fix Auto Brightness issue

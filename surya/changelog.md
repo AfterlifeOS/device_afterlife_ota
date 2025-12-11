@@ -1,19 +1,20 @@
-Highlights & Device Specific Changes:
-Build type: Official
-Device: surya
-Device maintainer: Skyy丨アラタ
+# Poco X3 NFC (surya)
+## Version - **8.2 Serenity**
+### **Build date** - 11 December 2025
+- Synced with latest source
+- Update kernel with latest Gilver kernel
+---
 
-Highlights & Device Specific Changes:
-=====================================
-
-# 13 November 2025 (8.1 HOTFIX):
+## Version - **8.1 Happiness (HOTFIX)**
+### **Build date** - 22 November 2025
 - Fixed google login issue
 - Fixed can't open media (in some apps like WhatsApp, Telegram, etc)
 - Fixed some weather icon not showing
 - Optimize perf
--------------------------------------
+---
 
-# 11 November 2025:
+## Version - **8.1 Happiness**
+### **Build date** - 11 November 2025
 - Synced with latest source
 - Fixed portrait issue in prev build
 - Fixed more bugs in Leica
@@ -22,9 +23,10 @@ Highlights & Device Specific Changes:
 - More improvement
 - Use Gilver kernel as default kernel
 - Fixed NFC issue in previous build
--------------------------------------
+---
 
-# 02 August 2024:
+## Version - **7.0 Patience**
+### **Build date** - 02 August 2024
 - Initial release for AftelifeOS A14 UQPR2
 - surya: Set double_tap mode via powerhint
 - surya: init: Set permissions for double tap to wake node
@@ -54,27 +56,3 @@ Highlights & Device Specific Changes:
 - surya: MiuiCamera: Included Leica Camera
 - surya: Play integrity should passed by default
 - surya: Firmware Already included
--------------------------------------
-
-# 19 Septeber 2024:
-- Set LTE+ threshold bandwidth to 0 by default
-- Enable voLTE/voWIFI/ViLTE for Portugal networks
-- Enable VoLTE/ViLTE/VoWiFi for entire 470 mcc
-- Update CarrierConfig to NOS 2.6
-- Disable phantom processing by default for fix some apps issue like a termux got error signal 9
-- Enable USB Debugging by default after boot
-- Fix low mic volume on voip
-- Switch to Shiryu:[Raghael] for kernel
-- Synced with latest source
--------------------------------------
-
-# 24 October 2024:
-- Bring back LeicaCam 4.7
-- Add support for AfterEcho (AfterlifeOS Dolby Atmos)
-- Rounded screen decorations for Screenshots and Screen Records
--------------------------------------
-
-# 28 November 2024
-- Synced with latest source
-- Build LawnIcons for themed icons
-- Switch to Anonymous:[Legacy] kernel

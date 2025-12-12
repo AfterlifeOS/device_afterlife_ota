@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "SMGReborn",
+            "oem": "Xiaomi",
+            "device": "Poco F7 Pro",
+            "version": "8.1",
+            "codename": "happiness",
+            "filename": "AfterlifeOS_zorn-8.1-happiness-official_20251127-gapps.zip",
+            "download": "https://www.pling.com/p/2324143/",
+            "timestamp": 1764235355,
+            "md5": "844c0ca51e1378c82608e954e3a937f1",
+            "sha256": "a0c66915b627e7d236752abe542e86d8ce31ad8ab157f75f4aeef4daf3b8544c",
+            "size": 4059427125,
+            "buildtype": "Official",
+            "forum": "https://t.me/SMGReborn",
+            "telegram": "https://t.me/SMGReborn"
+        }
+    ]
+}

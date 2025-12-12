@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: POCO F4 (Munch)
+Device maintainer: Kenskuyy
+
+Highlights & Device Specific Changes:
+--------# 20 November 2025 #------------
+- Initial Build
+- Firmware Included
+- KernelSU + SUSFS 1.5.5
+- Leica Camera
+- Dolby Atmos

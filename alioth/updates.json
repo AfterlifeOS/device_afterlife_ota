@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "OnettBoots&Yaseakun",
+            "oem": "Xiaomi",
+            "device": "POCO F3",
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_alioth-8.2-serenity-official_20251212-gapps.zip",
+            "download": "https://afterlifeos.com/device/alioth",
+            "timestamp": 1765507082,
+            "md5": "c00b94eaafdb52250f4f8ff03127314c",
+            "sha256": "889d1104186477c8e2b0e2ea32c547e541feb3fa240ff8e99813c225310ab55b",
+            "size": 2498640338,
+            "buildtype": "official",
+            "forum": "https://t.me/yaseaprjktchat",
+            "telegram": "https://t.me/Afterlife_update"
+        }
+    ]
+}

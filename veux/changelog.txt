@@ -5,6 +5,11 @@ Device maintainer: MrTopiA
 
 Highlights & Device Specific Changes:
 ====================================
+# 12 December 2025
+- Initial Android 16 OTA
+- Miscellaneous Improvements
+- Synced to latest source
+
  # 12 August 2024
 - Dropped ViPER
 - Implement Lineage Health HAL

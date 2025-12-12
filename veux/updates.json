@@ -1,20 +1,20 @@
 {
-    "response": [
-        {
-            "maintainer": "MrTopiA",
-            "oem": "Xiaomi",
-            "device": "Poco X4 Pro",
-            "version": "7.0",
-            "codename": "Patience",
-            "filename": "AfterLife-V7.0-Patience-OFFICIAL-veux-20240811-GApps.zip",
-            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/veux/AfterLife-V7.0-Patience-OFFICIAL-veux-20240811-GApps.zip/download",
-            "timestamp": 1723387251,
-            "md5": "d21fae468bf649eaa3e4de06c81e3a7e",
-            "sha256": "f2a98c7c5fe4e1ec9d892d5e09c4bd90ec0b5ea6832e1d1f6658311fc45dc423",
-            "size": 1650910731,
-            "buildtype": "",
-            "forum": "",
-            "telegram": "https://t.me/MrTopia"
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "MrTopiA",
+      "oem": "Xiaomi",
+      "device": "Poco X4 Pro",
+      "version": "8.2",
+      "codename": "serenity",
+      "filename": "AfterlifeOS_veux-8.2-serenity-official_20251212-basicgapps.zip",
+      "download": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Afterlife-121225/AfterlifeOS_veux-8.2-serenity-official_20251212-basicgapps.zip",
+      "timestamp": 1765567334,
+      "md5": "4a3876bac15dcfa2f4656efb21b54e3f",
+      "sha256": "3c5d032bf66f296d5b1aa3c4effd291dd39858f1ba202c9c71d4709d9cc5f14f",
+      "size": 1674448918,
+      "buildtype": "",
+      "forum": "",
+      "telegram": "https://t.me/MrTopia"
+    }
+  ]
 }

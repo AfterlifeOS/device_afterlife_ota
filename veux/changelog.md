@@ -1,4 +1,11 @@
 # Redmi Note 11 Pro 5G (Veux)
+
+## Version - **8.2 Serenity**
+### **Build date** - 12 December 2025
+- Initial Android 16 OTA Build
+- Merged with latest source
+- Miscellaneous Changes
+
 ## Version - **8.1 Happiness**
 ### **Build date** - 08 August 2024
 - Initial Android 14 QPR2

@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: sweet_k6a
+Device maintainer: ℝ𝕖𝕧𝕖𝕣𝕤𝕖𝕕ℝ𝕦𝕝𝕖𝕣༆𖣘
+
+Highlights & Device Specific Changes:
+====================================
+12 December 2025
+
+* Initial Release A16

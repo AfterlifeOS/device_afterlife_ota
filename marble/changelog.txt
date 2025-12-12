@@ -6,6 +6,13 @@ Device maintainer: MAULSxSMG
 Highlights & Device Specific Changes:
 =====================================
 
+12th December, 2025
+
+* Fixed! Screen freeze recovery
+* Fixed! Tuning Brightness in dark light
+* Implementation memory leak in the rom afterlife
+* Improve stability and performance
+
 17 November, 2025
 
 * Fixed! loudspeaker audio in/out call

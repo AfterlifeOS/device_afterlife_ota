@@ -7,13 +7,13 @@
       "version": "8.2",
       "codename": "serenity",
       "filename": "AfterlifeOS_veux-8.2-serenity-official_20251212-basicgapps.zip",
-      "download": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Afterlife-121225/AfterlifeOS_veux-8.2-serenity-official_20251212-basicgapps.zip",
+      "download": "https://afterlifeos.com/device/veux/",
       "timestamp": 1765567334,
       "md5": "4a3876bac15dcfa2f4656efb21b54e3f",
       "sha256": "3c5d032bf66f296d5b1aa3c4effd291dd39858f1ba202c9c71d4709d9cc5f14f",
       "size": 1674448918,
-      "buildtype": "",
-      "forum": "",
+      "buildtype": "Official",
+      "forum": "https://t.me/TopiATVOfficial",
       "telegram": "https://t.me/MrTopia"
     }
   ]

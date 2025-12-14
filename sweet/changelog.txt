@@ -36,3 +36,13 @@ Highlights & Device Specific Changes:
 * Upstream kernel into 4.14.355
 * Merge tag 'LA.UM.9.1.r1-16400-SMxxx0.QSSI14.0
 * Added Ksu
+
+-------------------------------------
+14th December, 2025
+
+* Build 2 Variant BasicGapps & Vanilla
+* NikGapps Recomended for Vanilla
+* Implement torch light control
+* Drop dolby and Viper
+* KernelSu-Next 1.1.1 with susf 1.5.9
+* Added KProfiles

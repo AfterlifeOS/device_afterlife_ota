@@ -1,18 +1,18 @@
 {
     "response": [
         {
-            "maintainer": "",
+            "maintainer": "Djampt",
             "oem": "Xiaomi",
             "device": "Redmi Note 10 Pro",
-            "version": "7.0",
-            "codename": "Patience",
-            "filename": "AfterLife-V7.0-Patience-OFFICIAL-sweet-20240808_032704-Vanilla.zip",
-            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/sweet/AfterLife-V7.0-Patience-OFFICIAL-sweet-20240808_032704-Vanilla.zip/download",
-            "timestamp": 1723087622,
-            "md5": "c9648d97580b00ea8fc178640298402e",
-            "sha256": "f0be341de0429b5e76877005d2a45d8e82ae0ba36acf3b38516e1a64c5592ae9",
-            "size": 1667420381,
-            "buildtype": "OFFICIAL",
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_sweet-8.2-serenity-official_20251214-basicgapps.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/sweet/AfterlifeOS_sweet-8.2-serenity-official_20251214-basicgapps.zip/download",
+            "timestamp": 1765678945,
+            "md5": "24330150ffc942d11cc4d99a8bbae773",
+            "sha256": "e3875cca7f751446fcceb27f080ae9ded54e8e94fb003bad45e5bcdb5490f78c",
+            "size": 2058580782,
+            "buildtype": "official",
             "forum": "https://t.me/dampt_cox",
             "telegram": "https://t.me/Djampt"
         }

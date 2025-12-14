@@ -1,4 +1,13 @@
 # Redmi Note 10Pro (Sweet)
+## Version - **8.2 Serenity**
+### **Build date** - 14 December 2025
+- Build 2 Variant BasicGapps & Vanilla
+- NikGapps Recomended for Vanilla
+- Implement torch light control
+- Drop dolby and Viper
+- KernelSu-Next 1.1.1 with susf 1.5.9
+- Added KProfiles
+
 ## Version - **8.1 Happiness**
 ### **Build date** - 14 November 2025
 - Import parts from crdroid

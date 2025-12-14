@@ -5,5 +5,8 @@ Device maintainer: ExWhyZed9
 
 Highlights & Device Specific Changes:
 ====================================
+# 13 December 2025
+- Miscellaneous fixes and enhancements
+
 # 19 November 2025
 - Initial afterlife Android 16 Release

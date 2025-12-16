@@ -4,3 +4,9 @@
 - Add FuseFS support
 - kernel su next v1.0.8
 - Shipped with 4.19xx TheOneMemory kernel
+
+## Version - **8.1 Happiness**
+### **Build date** - 16 November 2025
+- Fix UBS connection
+- Add FuseFS support
+- Shipped with A³-X00TD kernel

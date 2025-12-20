@@ -1,5 +1,13 @@
 # Poco F7 (Onyx)
 ## Version - **8.2 Serenity**
+### **Build date** - 20 December 2025
+- Fixed fingerprint
+- Fixed videos
+- Imported PowerPoint and changed governor to schedutil
+- Added GCam
+- Switch to Skiavk
+
+## Version - **8.2 Serenity**
 ### **Build date** - 16 December 2025
 - Added BCR
 - Java optimizations for SystemUI and System

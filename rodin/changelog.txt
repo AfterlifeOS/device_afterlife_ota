@@ -5,6 +5,10 @@ Device maintainer: Nazephyrus
 
 Highlights & Device Specific Changes:
 ====================================
+ # 20 December 2025
+- Merged with latest changes
+- Full Gapps build
+
  # 24 November 2025
 - Initial Official release
 - Gapps build

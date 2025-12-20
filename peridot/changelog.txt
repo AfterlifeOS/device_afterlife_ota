@@ -5,7 +5,15 @@ Device maintainer: ramshell688
 
 Highlights & Device Specific Changes:
 ====================================
-18th Nov, 2025
+# 20th Des, 2025
+
+• Merged with latest source
+• Don't ship recovery img
+• And some small changes
+
+
+====================================
+# 18th Nov, 2025
 
 • Merged with latest source
 • Added Dolby Atmos

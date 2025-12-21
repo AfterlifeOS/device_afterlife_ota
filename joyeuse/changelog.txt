@@ -5,6 +5,16 @@ Device maintainer: cursed4d
 
 Highlights & Device Specific Changes:
 =====================================
+21th Dec, 2025
+• NFC payment fixed
+• Led Charging fixed
+• Optimized for better performance and rock-solid stability
+
+-------------------------------------
+11th Nov, 2025
+• Initial Android 16 release 
+
+-------------------------------------
 23th Sep, 2024
 
 • Initial Release

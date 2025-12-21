@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "AminFauzi",
+            "oem": "realme",
+            "device": "realme 6 Pro",
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_RMX2061-8.2-serenity-official_20251221-basicgapps.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/RMX2061/AfterlifeOS_RMX2061-8.2-serenity-official_20251221-basicgapps.zip/download",
+            "timestamp": 1766301277,
+            "md5": "92b354c0f1cfbf66f5c9f62ac582f347",
+            "sha256": "7cf53a5cc7c0b68a4770dd2b97d4c91da9f777e252f675e406692c7dab3aaee9",
+            "size": 1899463930,
+            "buildtype": "OFFICIAL",
+            "forum": "https://t.me/thedevsclub",
+            "telegram": "https://t.me/aminfauzi94"
+        }
+    ]
+}

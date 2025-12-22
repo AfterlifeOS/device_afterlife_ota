@@ -7,14 +7,14 @@
             "version": "8.2",
             "codename": "serenity",
             "filename": "AfterlifeOS_devonf-8.2-serenity-official_20251222-gapps.zip",
-            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/devonf/AfterlifeOS_devonf-8.2-serenity-official_20251222-gapps.zip/download",
+            "download": "https://afterlifeos.com/device/devonf/",
             "timestamp": 1766416716,
             "md5": "6673a1cf5529be28a72ac9dc0f5ed08b",
             "sha256": "66941aafd274e5f2dd2cf426955057d6d5d211143adc71fb050f7bc405c0538f",
             "size": 2640732329,
             "buildtype": "OFFICIAL",
-            "forum": "https://t.me/MotoG73Updates",
-            "telegram": "https://t.me/MotoG73Official"
+            "forum": "https://t.me/MotoG73Official",
+            "telegram": "https://t.me/genzimplore"
         }
     ]
 }

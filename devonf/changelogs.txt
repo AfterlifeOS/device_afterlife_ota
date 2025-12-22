@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: Moto G73 5G (devonf)
+Device maintainer: user@linux
+
+Highlights & Device Specific Changes:
+====================================
+ # 22 December 2025
+- Initial Official release
+- GApps build - Full

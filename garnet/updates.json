@@ -1,20 +1,20 @@
 {
     "response": [
         {
-            "maintainer": "kibria5",
+            "maintainer": "HEYDR",
             "oem": "Xiaomi",
             "device": "Redmi Note 13 Pro 5G/Poco X6 5G",
-            "version": "8.1",
-            "codename": "happiness",
-            "filename": "AfterlifeOS_garnet-8.1-happiness-official_20251115-gapps.zip",
-            "download": "https://www.pling.com/p/2207678",
-            "timestamp": 1763232340,
-            "md5": "968a3c58ef165cb2831f93f3ae6478e8",
-            "sha256": "dfefa8dc8dcc13d35d02717d593d4d87533f0f58d876ccb78cbe4b8032102575",
-            "size": 2715769771,
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_garnet-8.2-serenity-official_20251223-gapps.zip",
+            "download": "https://afterlifeos.com/device/garnet",
+            "timestamp": 1766488296,
+            "md5": "6c44cea57db1d2ca991e572a43e5ec59",
+            "sha256": "f02437ee15e35a20c6709a5b1436786063f5b6e75d89b69210eb98837deff9db",
+            "size": 2756256771,
             "buildtype": "OFFICIAL",
-            "forum": "",
-            "telegram": "https://t.me/kibria5"
+            "forum": "https://t.me/chatzylplayground",
+            "telegram": "https://t.me/ZylhdrXP"
         }
     ]
 }

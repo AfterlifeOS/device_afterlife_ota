@@ -1,20 +1,20 @@
 {
     "response": [
         {
-            "maintainer": "aepranata",
+            "maintainer": "RenzAlt",
             "oem": "Redmi",
-            "device": "Redmi 5",
-            "version": "7.0",
-            "codename": "Patience",
-            "filename": "AfterLife-V7.0-Patience-OFFICIAL-rosy-20240728-Vanilla.zip",
-            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/rosy/AfterLife-V7.0-Patience-OFFICIAL-rosy-20240728-Vanilla.zip/download",
-            "timestamp": 1722205533,
-            "md5": "e2afad3a3486da34b2087a7a5cd14f63",
-            "sha256": "79ca5344e64b0b2f94e7ee40b674d5c8984d43b774962d1422e94e66f8f87fc9",
-            "size": 1039663306,
+            "device": "Redmi 5 Plus",
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_vince-8.2-serenity-official_20251225-vanilla.zip",
+            "download": "https://afterlifeos.com/device/vince",
+            "timestamp": 1766661171,
+            "md5": "a7207d3b78201296723aebce954c6d19",
+            "sha256": "9d081a3ef95e6af4d06979f14affdaea506226a8a485801a2a7c05f5897090cc",
+            "size": 1233500529,
             "buildtype": "daily",
-            "forum": "https://t.me/a3discussion",
-            "telegram": "https://t.me/aepranata"
+            "forum": "https://t.me/MI8953",
+            "telegram": "https://t.me/me_renzalt"
         }
     ]
 }

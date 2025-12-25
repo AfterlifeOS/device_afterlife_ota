@@ -1,29 +1,27 @@
 Highlights & Device Specific Changes:
-Build type: Weekly
-Device: Redmi 5
-Device maintainer: aepranata
+Build type: Official
+Device: vince
+Device maintainer: RenzAlt
 
 Highlights & Device Specific Changes:
 ====================================
-22th May, 2024
+# 11 December 2025
+- Synced with latest source
+- Initial Kernel 4.19
+- fixed livedisplay not working
+- fixed very weak haptic vibrations
 
-* Updated Graphics, Media, Audio blobs from FP3
-* Import QTI thermal from LineageOS
-* Swappines Set to 100
-* Attempt to fix weirdness with qs pulldown lag
-* Enforce read-ahead to be 128 KB
-* Introduce Dolby Atmos
-* Remove max ZRAM compression streams setting
-* Remove CAF input boost
-* Enable cpuidle during boot
-* Update Thermal blobs from Onclite
-* Disable dalvik minidebuginfo generation
+====================================
+# 11 November 2025
+- Initial release A16
 
-28th October, 2024
+====================================
+# 29 December 2024
+- Switch Dolby Atmos to AfterEcho™
 
-* Rollback few blobs to Daisy
-* Set Window animation/transition scale to 50% by default
-* Wifi keep on when activating airplane mode
-* Improve ZSL/HDR processing
-* Fix for incorrect min frame duration
-* Fix mic not working on some apps
+====================================
+# 09 May 2024
+- Initial Official build
+- fixed bootloop after change kernel
+- fixed otg not working
+- more improvement and stabillity

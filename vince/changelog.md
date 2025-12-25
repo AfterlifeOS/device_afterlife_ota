@@ -1,6 +1,6 @@
 # Redmi 5 Plus (vince)
 ## Version - **8.2 Serenity**
-### **Build date** - 11 December 2025
+### **Build date** - 25 December 2025
 - Synced with latest source
 - Initial Bringup Kernel 4.19
 - fixed livedisplay not working

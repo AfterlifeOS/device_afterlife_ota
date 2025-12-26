@@ -5,7 +5,13 @@ Device maintainer: RenzAlt
 
 Highlights & Device Specific Changes:
 ====================================
-# 11 December 2025
+# 26 December 2025
+- Address sepolicy denial for biometrics HALs
+- fixed fingerprint missing after switching selinux enforcing
+- address all denials in kernel 4.19
+
+====================================
+# 25 December 2025
 - Synced with latest source
 - Initial Kernel 4.19
 - fixed livedisplay not working

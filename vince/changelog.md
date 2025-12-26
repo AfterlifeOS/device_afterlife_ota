@@ -1,5 +1,5 @@
 # Redmi 5 Plus (vince)
-## Version - **8.2 Serenity**
+## Version - **8.2 Serenity (HOTFIX)**
 ### **Build date** - 26 December 2025
 - Address sepolicy denial for biometrics HALs
 - fixed fingerprint missing after switching selinux enforcing

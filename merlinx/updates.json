@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "doissM",
+            "oem": "Xiaomi",
+            "device": "merlinx",
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_merlinx-8.2-serenity-official_20251228-vanilla.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/merlinx/AfterlifeOS_merlinx-8.2-serenity-official_20251228-vanilla.zip/download",
+            "timestamp": 1766903704,
+            "md5": "b9351880dcda9674cb9641f592da16cb",
+            "sha256": "ad3679b8ae0d7850968c5680614b7784ba9be7510c27f583ebd790527cae4b34",
+            "size": 1432456901,
+            "buildtype": "",
+            "forum": "",
+            "telegram": ""
+        }
+    ]
+}
+

@@ -3,11 +3,11 @@
         {
             "maintainer": "doissM",
             "oem": "Xiaomi",
-            "device": "Lancelot",
+            "device": "Redmi 9",
             "version": "8.2",
             "codename": "serenity",
             "filename": "AfterlifeOS_lancelot-8.2-serenity-official_20251228-vanilla.zip",
-            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/lancelot/AfterlifeOS_lancelot-8.2-serenity-official_20251228-vanilla.zip/download",
+            "download": "https://afterlifeos.com/device/lancelot",
             "timestamp": 1766929453,
             "md5": "4abc75ced4da26dd803427e0b0d6b464",
             "sha256": "a578613dddf2b81b4ef9eaa0c34ed68c7702cc3ac81b213d6531ad98fd96c8ca",

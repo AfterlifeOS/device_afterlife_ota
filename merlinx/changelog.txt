@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: merlinx
+Device maintainer: doissM
+
+Highlights & Device Specific Changes:
+====================================
+# 28 December 2025
+- Initial Release
+- Fix Codec Issues
+
+====================================
+

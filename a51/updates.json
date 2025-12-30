@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "PARBINDAR7",
+            "oem": "Samsung",
+            "device": "Galaxy A51",
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_a51-8.2-serenity-official_20251230-coregapps.zip",
+            "download": "https://afterlifeos.com/device/m31",
+            "timestamp": 1767064419,
+            "md5": "3db7c410d0a6f9968f0211c77d556635",
+            "sha256": "5d0f112e7a7b35493cd68628182af1c40acd4bf1eb58228eb31d537db39257f5",
+            "size": 1551760839,
+            "buildtype": "OFFICIAL",
+            "forum": "https://t.me/ExyROMs",
+            "telegram": "https://t.me/ExyROMs"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "PARBINDAR7",
+            "oem": "Samsung",
+            "device": "Galaxy M21",
+            "version": "8.2",
+            "codename": "serenity",
+            "filename": "AfterlifeOS_m21-8.2-serenity-official_20251231-coregapps.zip",
+            "download": "https://afterlifeos.com/device/m21",
+            "timestamp": 1767148088,
+            "md5": "66df0b58af6892a009ca6c7d13b78fa3",
+            "sha256": "2d2f334d0b61828b6bd21d4a3839cd699c161c7b07a74b6ab14a746203d534db",
+            "size": 1414218152,
+            "buildtype": "OFFICIAL",
+            "forum": "https://t.me/ExyROMs",
+            "telegram": "https://t.me/ExyROMs"
+        }
+    ]
+}

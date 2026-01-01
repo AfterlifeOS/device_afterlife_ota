@@ -4,17 +4,22 @@
             "maintainer": "PARBINDAR7",
             "oem": "Samsung",
             "device": "Galaxy M31",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_m31-8.2-serenity-official_20251228-coregapps.zip",
-            "download": "https://afterlifeos.com/device/m31",
-            "timestamp": 1766900526,
-            "md5": "cf2cee11b737bb46d205e4c3a175519e",
-            "sha256": "6465a045ee835b2b5177b9b28153e35310779575e3b7efe6f820ac967af7a02c",
-            "size": 1413995142,
+            "device_code": "m31",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/m31",
             "forum": "https://t.me/ExyROMs",
-            "telegram": "https://t.me/ExyROMs"
+            "telegram": "https://t.me/ExyROMs",
+            "variants": {
+                "coregapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_m31-8.2-serenity-official_20251228-coregapps.zip",
+                    "timestamp": 1766900526,
+                    "md5": "cf2cee11b737bb46d205e4c3a175519e",
+                    "sha256": "6465a045ee835b2b5177b9b28153e35310779575e3b7efe6f820ac967af7a02c",
+                    "size": 1413995142
+                }
+            }
         }
     ]
 }

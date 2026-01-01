@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "ℝ𝕖𝕧𝕖𝕣𝕤𝕖𝕕ℝ𝕦𝕝𝕖𝕣༆𖣘",
+            "oem": "Xiaomi",
+            "device": "Redmi Note 12 Pro 4G",
+            "device_code": "sweet_k6a",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/sweet_k6a",
+            "forum": "https://t.me/reversedrulerchat",
+            "telegram": "https://t.me/ReversedRuler",
+            "variants": {
+                "basicgapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_sweet2-8.2-serenity-official_20251220-basicgapps.zip",
+                    "timestamp": 1766214904,
+                    "md5": "9f7d956cb104a6a578142b648761eee5",
+                    "sha256": "ddc85081cadc0b1726d0ab6cbacd1b469e41e684a0923a1c610c667013195a34",
+                    "size": 1911129939
+                }
+            }
+        }
+    ]
+}

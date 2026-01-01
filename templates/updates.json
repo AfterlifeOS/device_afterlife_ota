@@ -3,18 +3,23 @@
         {
             "maintainer": "Maintainer Name",
             "oem": "OEM Name (ex. Xiaomi)",
-			"device": "Device name (ex. POCO X3 NFC)",
-            "version": "Source version (ex. 8.1)",
-            "codename": "source codename (ex. happiness)",
-            "filename": "AfterlifeOS_surya-8.1-happiness-official_20251113-vanilla.zip",
-            "download": "https://afterlifeos.com/device/(codename)",
-            "timestamp": 1762993122,
-            "md5": "75d0037e1a9256254df49c53cfa15bac",
-            "sha256": "14f851f5a81b8d1ea33c630681c5a64ce2b5031b184d3fc3c8c1460564c6d43d",
-            "size": 1742304165,
+            "device": "Device name (ex. POCO X3 NFC)",
+            "device_code": "templates",
             "buildtype": "official",
+            "download": "https://afterlifeos.com/device/templates",
             "forum": "Your support group (ex. https://t.me/ArataXDummy)",
-            "telegram": "your telegram link (ex. https://t.me/HinohArata)"
+            "telegram": "your telegram link (ex. https://t.me/HinohArata)",
+            "variants": {
+                "vanilla": {
+                    "codename": "source codename (ex. happiness)",
+                    "version": "Source version (ex. 8.1)",
+                    "filename": "AfterlifeOS_surya-8.1-happiness-official_20251113-vanilla.zip",
+                    "timestamp": 1762993122,
+                    "md5": "75d0037e1a9256254df49c53cfa15bac",
+                    "sha256": "14f851f5a81b8d1ea33c630681c5a64ce2b5031b184d3fc3c8c1460564c6d43d",
+                    "size": 1742304165
+                }
+            }
         }
     ]
 }

@@ -4,6 +4,7 @@
 - NFC payment fixed
 - Led Charging fixed
 - Optimized for better performance and rock-solid stability
+---
 
 ## Version - **8.1 Happiness**
 ### **Build date** - 11 November 2025

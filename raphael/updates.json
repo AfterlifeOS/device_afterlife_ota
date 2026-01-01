@@ -4,17 +4,22 @@
             "maintainer": "Muhammad Al-Arabi",
             "oem": "Xiaomi",
             "device": "Redmi K20 Pro / Mi 9T Pro",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_raphael-8.2-serenity-official_20251211-gapps.zip",
-            "download": "https://afterlifeos.com/device/raphael",
-            "timestamp": 1765495824,
-            "md5": "8cacfe97a1eaf0e10e61a464b74791c9",
-            "sha256": "7cdb5322902f483dfbf3e83be56397c48cecb910bb94abfe6c7978aeffb985e0",
-            "size": 3296138955,
+            "device_code": "raphael",
             "buildtype": "",
+            "download": "https://afterlifeos.com/device/raphael",
             "forum": "https://t.me/Al_Arabis_Support",
-            "telegram": "https://t.me/YourDulavai"
+            "telegram": "https://t.me/YourDulavai",
+            "variants": {
+                "gapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_raphael-8.2-serenity-official_20251211-gapps.zip",
+                    "timestamp": 1765495824,
+                    "md5": "8cacfe97a1eaf0e10e61a464b74791c9",
+                    "sha256": "7cdb5322902f483dfbf3e83be56397c48cecb910bb94abfe6c7978aeffb985e0",
+                    "size": 3296138955
+                }
+            }
         }
     ]
 }

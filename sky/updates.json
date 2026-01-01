@@ -4,17 +4,22 @@
             "maintainer": "kAiF",
             "oem": "Xiaomi",
             "device": "Redmi 12 5G / POCO M6 Pro 5G",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_sky-8.2-serenity-official_20251229-gapps.zip",
-            "download": "https://afterlifeos.com/device/sky",
-            "timestamp": 1767023425,
-            "md5": "b235142b8b5788f8778c455ec8106b6d",
-            "sha256": "abf9805830d60a4a5fb54fbde142706324adacec55ee92a3fd62c3b3ddc0dd72",
-            "size": 2078066011,
+            "device_code": "sky",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/sky",
             "forum": "https://t.me/+mMRePfGbR4E5ZjM1",
-            "telegram": "https://t.me/+mMRePfGbR4E5ZjM1"
+            "telegram": "https://t.me/+mMRePfGbR4E5ZjM1",
+            "variants": {
+                "gapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_sky-8.2-serenity-official_20251229-gapps.zip",
+                    "timestamp": 1767023425,
+                    "md5": "b235142b8b5788f8778c455ec8106b6d",
+                    "sha256": "abf9805830d60a4a5fb54fbde142706324adacec55ee92a3fd62c3b3ddc0dd72",
+                    "size": 2078066011
+                }
+            }
         }
     ]
 }

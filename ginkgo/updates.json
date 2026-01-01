@@ -4,17 +4,22 @@
             "maintainer": "Hirokixd",
             "oem": "Xiaomi",
             "device": "Redmi Note 8",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_ginkgo-8.2-serenity-official_20251214-vanilla.zip",
-            "download": "https://afterlifeos.com/device/ginkgo",
-            "timestamp": 1765687876,
-            "md5": "b3267b0ed882820dde016b5163ba963f",
-            "sha256": "3559740c7beddadb6f72ada4c46dd2e469b85b2f15273e362e1eb2db524d8e89",
-            "size": 1409494727,
+            "device_code": "ginkgo",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/ginkgo",
             "forum": "https://t.me/hkprojectiongroup",
-            "telegram": "https://t.me/Hirokixd28"
+            "telegram": "https://t.me/Hirokixd28",
+            "variants": {
+                "vanilla": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_ginkgo-8.2-serenity-official_20251214-vanilla.zip",
+                    "timestamp": 1765687876,
+                    "md5": "b3267b0ed882820dde016b5163ba963f",
+                    "sha256": "3559740c7beddadb6f72ada4c46dd2e469b85b2f15273e362e1eb2db524d8e89",
+                    "size": 1409494727
+                }
+            }
         }
     ]
 }

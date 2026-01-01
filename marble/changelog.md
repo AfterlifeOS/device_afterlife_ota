@@ -5,6 +5,7 @@
 - Fixed! Tuning Brightness in dark light
 - Implementation memory leak in the rom afterlife
 - Improve stability and performance
+---
 
 ## Version - **8.1 Happiness**
 ### **Build date** - 17 November 2025
@@ -13,6 +14,7 @@
 - Nuke prop performance
 - Cleanup properties vendor
 - Improve stability and performance
+---
 
 ## Version - **8.0 BrotherHood**
 ### **Build date** - 28 October 2025

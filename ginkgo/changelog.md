@@ -3,6 +3,7 @@
 ### **Build date** - 14 November 2025
 - Synced with latest Afterlife source
 - Dropped MiuiCamera
+---
 
 ## Version - **8.1 Happiness**
 ### **Build date** - 10 November 2025

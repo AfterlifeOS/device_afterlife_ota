@@ -4,17 +4,22 @@
             "maintainer": "user@linux",
             "oem": "Motorola",
             "device": "Moto G73 5G",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_devonf-8.2-serenity-official_20251222-gapps.zip",
-            "download": "https://afterlifeos.com/device/devonf/",
-            "timestamp": 1766416716,
-            "md5": "6673a1cf5529be28a72ac9dc0f5ed08b",
-            "sha256": "66941aafd274e5f2dd2cf426955057d6d5d211143adc71fb050f7bc405c0538f",
-            "size": 2640732329,
+            "device_code": "devonf",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/devonf",
             "forum": "https://t.me/MotoG73Official",
-            "telegram": "https://t.me/genzimplore"
+            "telegram": "https://t.me/genzimplore",
+            "variants": {
+                "gapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_devonf-8.2-serenity-official_20251222-gapps.zip",
+                    "timestamp": 1766416716,
+                    "md5": "6673a1cf5529be28a72ac9dc0f5ed08b",
+                    "sha256": "66941aafd274e5f2dd2cf426955057d6d5d211143adc71fb050f7bc405c0538f",
+                    "size": 2640732329
+                }
+            }
         }
     ]
 }

@@ -1,4 +1,4 @@
-# Redmi Note 12 Pro 4G (Sweet2)
+# Redmi Note 12 Pro 4G (Sweet_k6a)
 ## Version - **8.2 Serenity**
 ### **Build date** - 20 December 2025
 - Define OEM fast charge sysfs node
@@ -22,6 +22,7 @@
 - properties: Add props to improve battery backup
 - Expose aux cameras to com.snapchat.android
 - Stop using vulkan
+---
 
 ## Version - **8.2 Serenity**
 ### **Build date** - 12 December 2025

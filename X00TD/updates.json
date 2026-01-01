@@ -4,17 +4,22 @@
             "maintainer": "BllsszzXD",
             "oem": "Asus",
             "device": "Asus Zenfone Max Pro M1",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_X00TD-8.2-serenity-official_20251216-coregapps.zip",
-            "download": "https://afterlifeos.com/device/X00TD",
-            "timestamp": 1765884047,
-            "md5": "e9649fa92d1f5066d9d700593a237a3a",
-            "sha256": "010eccb8db085bbeae8f848ef15a5bbbc9ce933f72a06fc373afe30500c47882",
-            "size": 1806081249,
+            "device_code": "X00TD",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/X00TD",
             "forum": "https://t.me/BllsszzDiscuss",
-            "telegram": "https://t.me/icaninpasar"
+            "telegram": "https://t.me/icaninpasar",
+            "variants": {
+                "coregapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_X00TD-8.2-serenity-official_20251216-coregapps.zip",
+                    "timestamp": 1765884047,
+                    "md5": "e9649fa92d1f5066d9d700593a237a3a",
+                    "sha256": "010eccb8db085bbeae8f848ef15a5bbbc9ce933f72a06fc373afe30500c47882",
+                    "size": 1806081249
+                }
+            }
         }
     ]
 }

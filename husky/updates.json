@@ -4,17 +4,22 @@
             "maintainer": "Iverz",
             "oem": "Google",
             "device": "Pixel 8 Pro",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_husky-8.2-serenity-official_20251213-basicgapps.zip",
-            "download": "https://afterlifeos.com/device/husky",
-            "timestamp": 1765602916,
-            "md5": "aadc2a3a55acd1efd6e55d193a3be28f",
-            "sha256": "fd06260d1511c76a8704029efe6bf75a7fed11e6075c4ab380359a7edc25e2df",
-            "size": 2297502075,
+            "device_code": "husky",
             "buildtype": "official",
+            "download": "https://afterlifeos.com/device/husky",
             "forum": "https://t.me/+aujRn2-Mj4w0MzBl",
-            "telegram": "https://t.me/asterixiverz"
+            "telegram": "https://t.me/asterixiverz",
+            "variants": {
+                "basicgapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_husky-8.2-serenity-official_20251213-basicgapps.zip",
+                    "timestamp": 1765602916,
+                    "md5": "aadc2a3a55acd1efd6e55d193a3be28f",
+                    "sha256": "fd06260d1511c76a8704029efe6bf75a7fed11e6075c4ab380359a7edc25e2df",
+                    "size": 2297502075
+                }
+            }
         }
     ]
 }

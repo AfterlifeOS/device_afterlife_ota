@@ -1,5 +1,5 @@
 # Poco F3 (Alioth)
-## Version - **8.2 Serenity**
+## Version - **8.2 Serenity (HOTFIX)**
 ### **Build date** - 24 December 2025
 - Increase SurfaceFlinger idle and touch timers
 - Address sepolicy denial for NFC
@@ -9,6 +9,7 @@
 - Add New HBM, DC Dimming. Gmaebar. Refrest Rate UI
 - Configure high touch sampling rate nodes
 - FIXED NFC and Microphone Issue
+---
 
 ## Version - **8.2 Serenity**
 ### **Build date** - 12 December 2025

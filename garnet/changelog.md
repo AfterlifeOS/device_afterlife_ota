@@ -5,6 +5,7 @@
 - SukiSU v4.1.0 & SUSFS v2.0.0 Included
 - Upgraded GPU driver to Adreno 819.0.2 & Vulkan 1.3.295
 - Dolby & Mi Cam Included
+---
 
 ## Version - **8.1 Happiness**
 ### **Build date** - 16 November 2025

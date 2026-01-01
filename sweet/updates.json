@@ -4,17 +4,22 @@
             "maintainer": "Djampt",
             "oem": "Xiaomi",
             "device": "Redmi Note 10 Pro",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_sweet-8.2-serenity-official_20251214-basicgapps.zip",
-            "download": "https://afterlifeos.com/device/sweet/",
-            "timestamp": 1765678945,
-            "md5": "24330150ffc942d11cc4d99a8bbae773",
-            "sha256": "e3875cca7f751446fcceb27f080ae9ded54e8e94fb003bad45e5bcdb5490f78c",
-            "size": 2058580782,
+            "device_code": "sweet",
             "buildtype": "official",
+            "download": "https://afterlifeos.com/device/sweet",
             "forum": "https://t.me/dampt_cox",
-            "telegram": "https://t.me/Djampt"
+            "telegram": "https://t.me/Djampt",
+            "variants": {
+                "basicgapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_sweet-8.2-serenity-official_20251214-basicgapps.zip",
+                    "timestamp": 1765678945,
+                    "md5": "24330150ffc942d11cc4d99a8bbae773",
+                    "sha256": "e3875cca7f751446fcceb27f080ae9ded54e8e94fb003bad45e5bcdb5490f78c",
+                    "size": 2058580782
+                }
+            }
         }
     ]
 }

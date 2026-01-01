@@ -4,17 +4,22 @@
             "maintainer": "doissM",
             "oem": "Xiaomi",
             "device": "Redmi 9",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_lancelot-8.2-serenity-official_20251228-vanilla.zip",
+            "device_code": "lancelot",
+            "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/device/lancelot",
-            "timestamp": 1766929453,
-            "md5": "4abc75ced4da26dd803427e0b0d6b464",
-            "sha256": "a578613dddf2b81b4ef9eaa0c34ed68c7702cc3ac81b213d6531ad98fd96c8ca",
-             "buildtype": "OFFICIAL",
             "forum": "https://t.me/c/3084097876/7152",
-            "telegram": "https://t.me/doissM"
+            "telegram": "https://t.me/doissM",
+            "variants": {
+                "vanilla": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_lancelot-8.2-serenity-official_20251228-vanilla.zip",
+                    "timestamp": 1766929453,
+                    "md5": "4abc75ced4da26dd803427e0b0d6b464",
+                    "sha256": "a578613dddf2b81b4ef9eaa0c34ed68c7702cc3ac81b213d6531ad98fd96c8ca",
+                    "size": null
+                }
+            }
         }
     ]
 }
-

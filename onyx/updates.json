@@ -4,17 +4,22 @@
             "maintainer": "franlop77",
             "oem": "POCO",
             "device": "POCO F7",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_onyx-8.2-serenity-official_20251220-gapps.zip",
-            "download": "https://afterlifeos.com/device/onyx",
-            "timestamp": 1766220962,
-            "md5": "c96f90a2d0bf8fd623abe305ed297aab",
-            "sha256": "8e523a6ec4923eaa3f349e02cae2fc3f8ee13d2031f3ce152b7d556707a1df43",
-            "size": 4347230805,
+            "device_code": "onyx",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/onyx",
             "forum": "",
-            "telegram": "https://t.me/franlop77"
+            "telegram": "https://t.me/franlop77",
+            "variants": {
+                "gapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_onyx-8.2-serenity-official_20251220-gapps.zip",
+                    "timestamp": 1766220962,
+                    "md5": "c96f90a2d0bf8fd623abe305ed297aab",
+                    "sha256": "8e523a6ec4923eaa3f349e02cae2fc3f8ee13d2031f3ce152b7d556707a1df43",
+                    "size": 4347230805
+                }
+            }
         }
     ]
 }

@@ -4,17 +4,22 @@
             "maintainer": "ʜᴇᴇᴅ",
             "oem": "Itel",
             "device": "Itel RS4",
-            "version": "8.1",
-            "codename": "happiness",
-            "filename": "AfterlifeOS-S666LN-8.1-happiness-official-20251130-160110-gapps.zip",
-            "download": "https://afterlifeos.com/device/S666LN",
-            "timestamp": 1764523220,
-            "md5": "8777551229343790f74f340b4b8878b2",
-            "sha256": "82db9e98d0200469bc9d0f0194a16592bab842a50c4d48517292994f251985c8",
-            "size": 2346222795,
+            "device_code": "S666LN",
             "buildtype": "official",
+            "download": "https://afterlifeos.com/device/S666LN",
             "forum": "https://t.me/AfterLifeOS",
-            "telegram": "https://t.me/attack_dns24"
+            "telegram": "https://t.me/attack_dns24",
+            "variants": {
+                "gapps": {
+                    "codename": "happiness",
+                    "version": "8.1",
+                    "filename": "AfterlifeOS-S666LN-8.1-happiness-official-20251130-160110-gapps.zip",
+                    "timestamp": 1764523220,
+                    "md5": "8777551229343790f74f340b4b8878b2",
+                    "sha256": "82db9e98d0200469bc9d0f0194a16592bab842a50c4d48517292994f251985c8",
+                    "size": 2346222795
+                }
+            }
         }
     ]
 }

@@ -4,17 +4,22 @@
             "maintainer": "Iverz",
             "oem": "Google",
             "device": "Pixel 8a",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_akita-8.2-serenity-official_20251213-basicgapps.zip",
-            "download": "https://afterlifeos.com/device/akita",
-            "timestamp": 1765601757,
-            "md5": "d1ec9dc696c30fba05ef2096aefdb04d",
-            "sha256": "7515a19aea11bb5ef5e3e805523a4e9ff896f068910219a44efb8e22ef18ad04",
-            "size": 2279914974,
+            "device_code": "akita",
             "buildtype": "official",
+            "download": "https://afterlifeos.com/device/akita",
             "forum": "https://t.me/+aujRn2-Mj4w0MzBl",
-            "telegram": "https://t.me/asterixiverz"
+            "telegram": "https://t.me/asterixiverz",
+            "variants": {
+                "basicgapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_akita-8.2-serenity-official_20251213-basicgapps.zip",
+                    "timestamp": 1765601757,
+                    "md5": "d1ec9dc696c30fba05ef2096aefdb04d",
+                    "sha256": "7515a19aea11bb5ef5e3e805523a4e9ff896f068910219a44efb8e22ef18ad04",
+                    "size": 2279914974
+                }
+            }
         }
     ]
 }

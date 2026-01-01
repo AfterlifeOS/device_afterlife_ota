@@ -6,12 +6,14 @@
 - Imported PowerPoint and changed governor to schedutil
 - Added GCam
 - Switch to Skiavk
+---
 
 ## Version - **8.2 Serenity**
 ### **Build date** - 16 December 2025
 - Added BCR
 - Java optimizations for SystemUI and System
 - Enable suspend to RAM
+---
 
 ## Version - **8.1 Happiness**
 ### **Build date** - 10 November 2025

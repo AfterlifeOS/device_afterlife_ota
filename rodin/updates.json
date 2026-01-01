@@ -4,17 +4,22 @@
             "maintainer": "Nazephyrus",
             "oem": "Xiaomi",
             "device": "Poco X7 Pro",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_rodin-8.2-serenity-official_20251220-gapps.zip",
-            "download": "https://afterlifeos.com/device/rodin",
-            "timestamp": 1766202419,
-            "md5": "443ed4f17827bccd7dd422406138fded",
-            "sha256": "522e608922c15f17eef03c657f3457b414174717266c5c961c9b759bd6bbe548",
-            "size": 3115918295,
+            "device_code": "rodin",
             "buildtype": "Official",
+            "download": "https://afterlifeos.com/device/rodin",
             "forum": "https://t.me/nazeloan",
-            "telegram": "https://t.me/Nazephyrus"
+            "telegram": "https://t.me/Nazephyrus",
+            "variants": {
+                "gapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_rodin-8.2-serenity-official_20251220-gapps.zip",
+                    "timestamp": 1766202419,
+                    "md5": "443ed4f17827bccd7dd422406138fded",
+                    "sha256": "522e608922c15f17eef03c657f3457b414174717266c5c961c9b759bd6bbe548",
+                    "size": 3115918295
+                }
+            }
         }
     ]
 }

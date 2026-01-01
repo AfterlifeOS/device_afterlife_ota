@@ -4,17 +4,22 @@
             "maintainer": "RenzAlt",
             "oem": "Redmi",
             "device": "Redmi 5 Plus",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_vince-8.2-serenity-official_20251226-vanilla.zip",
-            "download": "https://afterlifeos.com/device/vince",
-            "timestamp": 1766730992,
-            "md5": "14657ac99a6fa063accec363c2dd254c",
-            "sha256": "72d1ce2999793f8401be1c642e1a3132ad3cc8b41e600bf9288f76464bf5041e",
-            "size": 1245040131,
+            "device_code": "vince",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/vince",
             "forum": "https://t.me/MI8953",
-            "telegram": "https://t.me/me_renzalt"
+            "telegram": "https://t.me/me_renzalt",
+            "variants": {
+                "vanilla": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_vince-8.2-serenity-official_20251226-vanilla.zip",
+                    "timestamp": 1766730992,
+                    "md5": "14657ac99a6fa063accec363c2dd254c",
+                    "sha256": "72d1ce2999793f8401be1c642e1a3132ad3cc8b41e600bf9288f76464bf5041e",
+                    "size": 1245040131
+                }
+            }
         }
     ]
 }

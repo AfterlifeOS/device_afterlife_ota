@@ -4,17 +4,22 @@
             "maintainer": "Jayed",
             "oem": "Xiaomi",
             "device": "Redmi 9a",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_blossom-8.2-serenity-official_20251214-vanilla.zip",
-            "download": "https://afterlifeos.com/device/blossom",
-            "timestamp": 1765694107,
-            "md5": "5fb92d0904874b90fbadeebddf5b315d",
-            "sha256": "819185ee3084cf9004c75e1566eff91dd195d680a310b9540d244a5e562e1df9",
-            "size": 1342642665,
+            "device_code": "blossom",
             "buildtype": "official",
+            "download": "https://afterlifeos.com/device/blossom",
             "forum": "https://t.me/Jayedupdate",
-            "telegram": "https://t.me/Afterlife_update"
+            "telegram": "https://t.me/Afterlife_update",
+            "variants": {
+                "vanilla": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_blossom-8.2-serenity-official_20251214-vanilla.zip",
+                    "timestamp": 1765694107,
+                    "md5": "5fb92d0904874b90fbadeebddf5b315d",
+                    "sha256": "819185ee3084cf9004c75e1566eff91dd195d680a310b9540d244a5e562e1df9",
+                    "size": 1342642665
+                }
+            }
         }
     ]
 }

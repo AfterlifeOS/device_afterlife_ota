@@ -4,17 +4,22 @@
             "maintainer": "Cursed",
             "oem": "Redmi",
             "device": "Redmi Note 9 Pro",
-            "version": "8.2",
-            "codename": "Serenity",
-            "filename": "AfterlifeOS_joyeuse-8.2-serenity-official_20251220_120155-gapps.zip",
-            "download": "https://afterlifeos.com/device/joyeuse",
-            "timestamp": 1766232109,
-            "md5": "c9903752921504cded368b891014cdc5",
-            "sha256": "9cb1e157996976f3c0f4bf54f2e113debf5a71be442617012b4159bee3294e16",
-            "size": 2797373318,
+            "device_code": "joyeuse",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/joyeuse",
             "forum": "https://t.me/gengkapakjoy",
-            "telegram": "https://t.me/cursed4d"
+            "telegram": "https://t.me/cursed4d",
+            "variants": {
+                "gapps": {
+                    "codename": "Serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_joyeuse-8.2-serenity-official_20251220_120155-gapps.zip",
+                    "timestamp": 1766232109,
+                    "md5": "c9903752921504cded368b891014cdc5",
+                    "sha256": "9cb1e157996976f3c0f4bf54f2e113debf5a71be442617012b4159bee3294e16",
+                    "size": 2797373318
+                }
+            }
         }
     ]
 }

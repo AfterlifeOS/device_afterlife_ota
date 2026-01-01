@@ -7,6 +7,7 @@
 - Drop dolby and Viper
 - KernelSu-Next 1.1.1 with susf 1.5.9
 - Added KProfiles
+---
 
 ## Version - **8.1 Happiness**
 ### **Build date** - 14 November 2025

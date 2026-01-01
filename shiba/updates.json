@@ -4,17 +4,22 @@
             "maintainer": "Iverz",
             "oem": "Google",
             "device": "Pixel 8",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_shiba-8.2-serenity-official_20251213-basicgapps.zip",
-            "download": "https://afterlifeos.com/device/shiba",
-            "timestamp": 1765600219,
-            "md5": "cff972a7e4d9fde4679f801f4c1fd905",
-            "sha256": "9bf637019ab90ca917aa9decc06a9ac085dfc37f5226e8c9962187cd5ee37340",
-            "size": 2288123866,
+            "device_code": "shiba",
             "buildtype": "official",
+            "download": "https://afterlifeos.com/device/shiba",
             "forum": "https://t.me/+aujRn2-Mj4w0MzBl",
-            "telegram": "https://t.me/asterixiverz"
+            "telegram": "https://t.me/asterixiverz",
+            "variants": {
+                "basicgapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_shiba-8.2-serenity-official_20251213-basicgapps.zip",
+                    "timestamp": 1765600219,
+                    "md5": "cff972a7e4d9fde4679f801f4c1fd905",
+                    "sha256": "9bf637019ab90ca917aa9decc06a9ac085dfc37f5226e8c9962187cd5ee37340",
+                    "size": 2288123866
+                }
+            }
         }
     ]
 }

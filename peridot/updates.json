@@ -4,17 +4,22 @@
             "maintainer": "ramshell688",
             "oem": "Xiaomi",
             "device": "POCO F6 / Redmi Turbo 3",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_peridot-8.2-serenity-official_20251220-gapps.zip",
-            "download": "https://afterlifeos.com/device/peridot",
-            "timestamp": 1766233482,
-            "md5": "b096a143d31499c24f79634d8d1addb6",
-            "sha256": "95c02df6e861c6cac4353295f939b8632d12a173f6280a9223f4ace127058134",
-            "size": 3453354070,
+            "device_code": "peridot",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/peridot",
             "forum": "https://t.me/ramsprojects",
-            "telegram": "https://t.me/ramshell688"
+            "telegram": "https://t.me/ramshell688",
+            "variants": {
+                "gapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_peridot-8.2-serenity-official_20251220-gapps.zip",
+                    "timestamp": 1766233482,
+                    "md5": "b096a143d31499c24f79634d8d1addb6",
+                    "sha256": "95c02df6e861c6cac4353295f939b8632d12a173f6280a9223f4ace127058134",
+                    "size": 3453354070
+                }
+            }
         }
     ]
 }

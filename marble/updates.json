@@ -4,17 +4,22 @@
             "maintainer": "MAULSxSMG",
             "oem": "POCO",
             "device": "POCO F5",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_marble-8.2-serenity-official_20251212-gapps.zip",
-            "download": "https://afterlifeos.com/device/marble",
-            "timestamp": 1765511645,
-            "md5": "bd8b60c39bbd4c75df3bbd4196da6dca",
-            "sha256": "00a555e9d05c7c86e5b0e8425e36e6c53576a7eaf2f1ebe1e53ace6f57952c19",
-            "size": 3010862580,
+            "device_code": "marble",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/marble",
             "forum": "https://t.me/mauls_build",
-            "telegram": "https://t.me/Maulanariaddy"
+            "telegram": "https://t.me/Maulanariaddy",
+            "variants": {
+                "gapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_marble-8.2-serenity-official_20251212-gapps.zip",
+                    "timestamp": 1765511645,
+                    "md5": "bd8b60c39bbd4c75df3bbd4196da6dca",
+                    "sha256": "00a555e9d05c7c86e5b0e8425e36e6c53576a7eaf2f1ebe1e53ace6f57952c19",
+                    "size": 3010862580
+                }
+            }
         }
     ]
 }

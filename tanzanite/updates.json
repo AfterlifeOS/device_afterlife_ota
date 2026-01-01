@@ -4,17 +4,22 @@
             "maintainer": "noticesa",
             "oem": "xiaomi",
             "device": "Redmi Note 14 4G",
-            "version": "8.2",
-            "codename": "serenity",
-            "filename": "AfterlifeOS_tanzanite-8.2-serenity-official_20251230-coregapps.zip",
-            "download": "https://afterlifeos.com/device/tanzanite",
-            "timestamp": 1767081384,
-            "md5": "70eea8b74e288cd8647478cbdb68f882",
-            "sha256": "67c70bf5e8c90d3204f52968ec23fd234777e509e49fbf7ba4c01a733ad5e47b",
-            "size": 1668568678,
+            "device_code": "tanzanite",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/tanzanite",
             "forum": "https://t.me/itseunbinn",
-            "telegram": "https://t.me/noticesa"
+            "telegram": "https://t.me/noticesa",
+            "variants": {
+                "coregapps": {
+                    "codename": "serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_tanzanite-8.2-serenity-official_20251230-coregapps.zip",
+                    "timestamp": 1767081384,
+                    "md5": "70eea8b74e288cd8647478cbdb68f882",
+                    "sha256": "67c70bf5e8c90d3204f52968ec23fd234777e509e49fbf7ba4c01a733ad5e47b",
+                    "size": 1668568678
+                }
+            }
         }
     ]
 }

@@ -4,17 +4,22 @@
             "maintainer": "Bava7325",
             "oem": "realme",
             "device": "realme 5 Pro",
-            "version": "8.1",
-            "codename": "happiness",
-            "filename": "AfterlifeOS_RMX1971-8.1-happiness-official_20251124-vanilla.zip",
-            "download": "https://www.pling.com/p/2325353/",
-            "timestamp": 1764026174,
-            "md5": "bab9f5bafb2a5e04f73f8e0d8de62d96",
-            "sha256": "591fe4468595c7d673b2bb63573a8fbf69e6dedd44a67e1c6f06568e5464d44e",
-            "size": 1472210646,
+            "device_code": "RMX1971",
             "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/RMX1971",
             "forum": "https://t.me/Realme5Pro_Global",
-            "telegram": "https://t.me/Bava7325"
+            "telegram": "https://t.me/Bava7325",
+            "variants": {
+                "vanilla": {
+                    "codename": "happiness",
+                    "version": "8.1",
+                    "filename": "AfterlifeOS_RMX1971-8.1-happiness-official_20251124-vanilla.zip",
+                    "timestamp": 1764026174,
+                    "md5": "bab9f5bafb2a5e04f73f8e0d8de62d96",
+                    "sha256": "591fe4468595c7d673b2bb63573a8fbf69e6dedd44a67e1c6f06568e5464d44e",
+                    "size": 1472210646
+                }
+            }
         }
     ]
 }

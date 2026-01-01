@@ -5,19 +5,19 @@
             "oem": "Xiaomi",
             "device": "POCO X3 NFC",
             "device_code": "surya",
-            "buildtype": "official",
+            "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/device/surya",
             "forum": "https://t.me/ArataXDummy",
             "telegram": "https://t.me/HinohArata",
             "variants": {
                 "vanilla": {
-                    "codename": "serenity",
+                    "codename": "Serenity",
                     "version": "8.2",
-                    "filename": "AfterlifeOS_surya-8.2-serenity-official_20251211-vanilla.zip",
-                    "timestamp": 1765456660,
-                    "md5": "4e80b1522b6d7b35d841f525ebb6e321",
-                    "sha256": "6a5aee848ee1754d7d633acd2561f1a96cda454b85eb78926627077bf1f33cec",
-                    "size": 1735644105
+                    "filename": "AfterlifeOS_surya-8.2-serenity-official_20260101-vanilla.zip",
+                    "timestamp": 1767253525,
+                    "md5": "80c1cc8b3c2a2bb8852b382ea98c087f",
+                    "sha256": "4d8f76ff0dbd6dac9e539814416f4f069ac2d4979687cd3fa75f55d14b75e8a1",
+                    "size": 1753880122
                 }
             }
         }

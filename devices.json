@@ -1,0 +1,268 @@
+{
+    "devices": [
+        {
+            "name": "Asus Zenfone Max Pro M1",
+            "codename": "X00TD",
+            "brand": "Asus",
+            "maintainer": "BllsszzXD",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Pixel 8",
+            "codename": "shiba",
+            "brand": "Google",
+            "maintainer": "Iverz",
+            "image_url": "https://wiki.lineageos.org/images/devices/shiba.png",
+            "status": "Active"
+        },
+        {
+            "name": "Pixel 8 Pro",
+            "codename": "husky",
+            "brand": "Google",
+            "maintainer": "Iverz",
+            "image_url": "https://wiki.lineageos.org/images/devices/husky.png",
+            "status": "Active"
+        },
+        {
+            "name": "Pixel 8a",
+            "codename": "akita",
+            "brand": "Google",
+            "maintainer": "Iverz",
+            "image_url": "https://wiki.lineageos.org/images/devices/akita.png",
+            "status": "Active"
+        },
+        {
+            "name": "Itel RS4",
+            "codename": "S666LN",
+            "brand": "Itel",
+            "maintainer": "ʜᴇᴇᴅ",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Moto G73 5G",
+            "codename": "devonf",
+            "brand": "Motorola",
+            "maintainer": "user@linux",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "POCO F5",
+            "codename": "marble",
+            "brand": "POCO",
+            "maintainer": "MAULSxSMG",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-2.jpg",
+            "status": "Active"
+        },
+        {
+            "name": "POCO F7",
+            "codename": "onyx",
+            "brand": "POCO",
+            "maintainer": "franlop77",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi 5 Plus",
+            "codename": "vince",
+            "brand": "Redmi",
+            "maintainer": "RenzAlt",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi Note 9 Pro",
+            "codename": "joyeuse",
+            "brand": "Redmi",
+            "maintainer": "Cursed",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Galaxy A51",
+            "codename": "a51",
+            "brand": "Samsung",
+            "maintainer": "PARBINDAR7",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Galaxy M21",
+            "codename": "m21",
+            "brand": "Samsung",
+            "maintainer": "PARBINDAR7",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Galaxy M31",
+            "codename": "m31",
+            "brand": "Samsung",
+            "maintainer": "PARBINDAR7",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "POCO F3",
+            "codename": "alioth",
+            "brand": "Xiaomi",
+            "maintainer": "OnettBoots&Yaseakun",
+            "image_url": "https://wiki.lineageos.org/images/devices/alioth.png",
+            "status": "Active"
+        },
+        {
+            "name": "POCO F4",
+            "codename": "munch",
+            "brand": "Xiaomi",
+            "maintainer": "Kenskuyy",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "POCO F6 / Redmi Turbo 3",
+            "codename": "peridot",
+            "brand": "Xiaomi",
+            "maintainer": "ramshell688",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "POCO X3 NFC",
+            "codename": "surya",
+            "brand": "Xiaomi",
+            "maintainer": "Skyy丨アラタ",
+            "image_url": "https://wiki.lineageos.org/images/devices/surya.png",
+            "status": "Active"
+        },
+        {
+            "name": "Poco F7 Pro",
+            "codename": "zorn",
+            "brand": "Xiaomi",
+            "maintainer": "SMGReborn",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Poco X4 Pro",
+            "codename": "veux",
+            "brand": "Xiaomi",
+            "maintainer": "MrTopiA",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg",
+            "status": "Active"
+        },
+        {
+            "name": "Poco X7 Pro",
+            "codename": "rodin",
+            "brand": "Xiaomi",
+            "maintainer": "Nazephyrus",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi 12 5G / POCO M6 Pro 5G",
+            "codename": "sky",
+            "brand": "Xiaomi",
+            "maintainer": "kAiF",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi 9",
+            "codename": "lancelot",
+            "brand": "Xiaomi",
+            "maintainer": "doissM",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi 9a",
+            "codename": "blossom",
+            "brand": "Xiaomi",
+            "maintainer": "Jayed",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi K20 Pro / Mi 9T Pro",
+            "codename": "raphael",
+            "brand": "Xiaomi",
+            "maintainer": "Muhammad Al-Arabi",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi K50i / Poco X4 GT / Redmi Note 11T Pro / Pro+",
+            "codename": "xaga",
+            "brand": "Xiaomi",
+            "maintainer": "ExWhyZed9",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi Note 10 Pro",
+            "codename": "sweet",
+            "brand": "Xiaomi",
+            "maintainer": "Djampt",
+            "image_url": "https://wiki.lineageos.org/images/devices/sweet.png",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi Note 12 Pro 4G",
+            "codename": "sweet_k6a",
+            "brand": "Xiaomi",
+            "maintainer": "ℝ𝕖𝕧𝕖𝕣𝕤𝕖𝕕ℝ𝕦𝕝𝕖𝕣༆𖣘",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi Note 13 Pro 5G/Poco X6 5G",
+            "codename": "garnet",
+            "brand": "Xiaomi",
+            "maintainer": "HEYDR",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi Note 8",
+            "codename": "ginkgo",
+            "brand": "Xiaomi",
+            "maintainer": "Hirokixd",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi Note 9",
+            "codename": "merlinx",
+            "brand": "Xiaomi",
+            "maintainer": "doissM",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "realme 5 Pro",
+            "codename": "RMX1971",
+            "brand": "realme",
+            "maintainer": "Bava7325",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "realme 6 Pro",
+            "codename": "RMX2061",
+            "brand": "realme",
+            "maintainer": "AminFauzi",
+            "image_url": "",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi Note 14 4G",
+            "codename": "tanzanite",
+            "brand": "xiaomi",
+            "maintainer": "noticesa",
+            "image_url": "",
+            "status": "Active"
+        }
+    ]
+}

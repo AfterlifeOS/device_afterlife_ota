@@ -3,7 +3,7 @@
         {
             "maintainer": "Thereache",
             "oem": "Xiaomi",
-            "device": "Poco X5 Pro",
+            "device": "POCO X5 Pro",
             "device_code": "redwood",
             "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/device/redwood",

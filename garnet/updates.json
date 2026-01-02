@@ -3,7 +3,7 @@
         {
             "maintainer": "HEYDR",
             "oem": "Xiaomi",
-            "device": "Redmi Note 13 Pro 5G/Poco X6 5G",
+            "device": "Redmi Note 13 Pro 5G/POCO X6 5G",
             "device_code": "garnet",
             "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/device/garnet",

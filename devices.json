@@ -63,7 +63,7 @@
         {
             "name": "POCO F5",
             "codename": "marble",
-            "brand": "POCO",
+            "brand": "Xiaomi",
             "maintainer": "MAULSxSMG",
             "github_username": "",
             "image_url": "https://i.ibb.co.com/kgLptHNc/1000192581-removebg-preview.png",
@@ -73,7 +73,7 @@
         {
             "name": "POCO F7",
             "codename": "onyx",
-            "brand": "POCO",
+            "brand": "Xiaomi",
             "maintainer": "franlop77",
             "github_username": "",
             "image_url": "https://i.ibb.co.com/Ndgdqj28/db59999836d4ed20489fe9a3c9ce9189.png",
@@ -191,7 +191,7 @@
             "status": "Active"
         },
         {
-            "name": "Poco F7 Pro",
+            "name": "POCO F7 Pro",
             "codename": "zorn",
             "brand": "Xiaomi",
             "maintainer": "SMGReborn",
@@ -201,7 +201,7 @@
             "status": "Active"
         },
         {
-            "name": "Poco X4 Pro",
+            "name": "POCO X4 Pro",
             "codename": "veux",
             "brand": "Xiaomi",
             "maintainer": "MrTopiA",
@@ -211,7 +211,17 @@
             "status": "Active"
         },
         {
-            "name": "Poco X7 Pro",
+            "name": "POCO X5 Pro",
+            "codename": "redwood",
+            "brand": "Xiaomi",
+            "maintainer": "Thereache",
+            "github_username": "Thereache",
+            "image_url": "https://i.ibb.co.com/354jLHSy/e6e8a8b8d8ca5e9cf464de88c36f5bfd.png",
+            "pling_id": "2339661",
+            "status": "Active"
+        },
+        {
+            "name": "POCO X7 Pro",
             "codename": "rodin",
             "brand": "Xiaomi",
             "maintainer": "Nazephyrus",
@@ -261,7 +271,7 @@
             "status": "Active"
         },
         {
-            "name": "Redmi K50i / Poco X4 GT / Redmi Note 11T Pro / Pro+",
+            "name": "Redmi K50i / POCO X4 GT / Redmi Note 11T Pro / Pro+",
             "codename": "xaga",
             "brand": "Xiaomi",
             "maintainer": "ExWhyZed9",
@@ -291,7 +301,7 @@
             "status": "Active"
         },
         {
-            "name": "Redmi Note 13 Pro 5G/Poco X6 5G",
+            "name": "Redmi Note 13 Pro 5G/POCO X6 5G",
             "codename": "garnet",
             "brand": "Xiaomi",
             "maintainer": "HEYDR",

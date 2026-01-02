@@ -3,9 +3,9 @@
         {
             "maintainer": "MrTopiA",
             "oem": "Xiaomi",
-            "device": "Poco X4 Pro",
+            "device": "POCO X4 Pro",
             "device_code": "veux",
-            "buildtype": "Official",
+            "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/device/veux",
             "forum": "https://t.me/TopiATVOfficial",
             "telegram": "https://t.me/MrTopia",

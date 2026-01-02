@@ -3,7 +3,7 @@
         {
             "maintainer": "SMGReborn",
             "oem": "Xiaomi",
-            "device": "Poco F7 Pro",
+            "device": "POCO F7 Pro",
             "device_code": "zorn",
             "buildtype": "Official",
             "download": "https://afterlifeos.com/device/zorn",

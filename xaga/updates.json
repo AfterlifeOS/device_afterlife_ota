@@ -3,9 +3,9 @@
         {
             "maintainer": "ExWhyZed9",
             "oem": "Xiaomi",
-            "device": "Redmi K50i / Poco X4 GT / Redmi Note 11T Pro / Pro+",
+            "device": "Redmi K50i / POCO X4 GT / Redmi Note 11T Pro / Pro+",
             "device_code": "xaga",
-            "buildtype": "official",
+            "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/device/xaga",
             "forum": "https://t.me/AfterLifeOS",
             "telegram": "https://t.me/Afterlife_update",

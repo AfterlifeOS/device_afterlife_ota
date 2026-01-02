@@ -3,9 +3,9 @@
         {
             "maintainer": "Nazephyrus",
             "oem": "Xiaomi",
-            "device": "Poco X7 Pro",
+            "device": "POCO X7 Pro",
             "device_code": "rodin",
-            "buildtype": "Official",
+            "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/device/rodin",
             "forum": "https://t.me/nazeloan",
             "telegram": "https://t.me/Nazephyrus",

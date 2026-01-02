@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "Thereache",
+            "oem": "Xiaomi",
+            "device": "redwood",
+            "device_code": "redwood",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/redwood",
+            "forum": "https://t.me/thereachebuildchat",
+            "telegram": "https://t.me/Thereache",
+            "variants": {
+                "gapps": {
+                    "codename": "Serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_redwood-8.2-serenity-official_20260102-gapps.zip",
+                    "timestamp": 1767367432,
+                    "md5": "095472fa3186320d86c4b8b182d10bc2",
+                    "sha256": "eceb9ff8b571555241c2df34fc38e821fcbde992a9b5946ce5cc756da0355db4",
+                    "size": 2635704492
+                }
+            }
+        }
+    ]
+}

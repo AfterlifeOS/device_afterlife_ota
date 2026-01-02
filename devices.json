@@ -5,7 +5,7 @@
             "codename": "X00TD",
             "brand": "Asus",
             "maintainer": "BllsszzXD",
-            "image_url": "",
+            "image_url": "https://vitormattos.github.io/poc-lineageos-cellphone-list-statics//images/devices/X00TD.png",
             "status": "Active"
         },
         {
@@ -37,7 +37,7 @@
             "codename": "S666LN",
             "brand": "Itel",
             "maintainer": "ʜᴇᴇᴅ",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/Dg49G8TS/1000192577-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -45,7 +45,7 @@
             "codename": "devonf",
             "brand": "Motorola",
             "maintainer": "user@linux",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/GfHynsyQ/1000192579-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -53,7 +53,7 @@
             "codename": "marble",
             "brand": "POCO",
             "maintainer": "MAULSxSMG",
-            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-2.jpg",
+            "image_url": "https://i.ibb.co.com/kgLptHNc/1000192581-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -61,7 +61,7 @@
             "codename": "onyx",
             "brand": "POCO",
             "maintainer": "franlop77",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/Ndgdqj28/db59999836d4ed20489fe9a3c9ce9189.png",
             "status": "Active"
         },
         {
@@ -69,7 +69,7 @@
             "codename": "vince",
             "brand": "Redmi",
             "maintainer": "RenzAlt",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/rGKdMNWB/pms-1543765940-08298261-600x600-85.png",
             "status": "Active"
         },
         {
@@ -77,7 +77,7 @@
             "codename": "joyeuse",
             "brand": "Redmi",
             "maintainer": "Cursed",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/LzHVkkxD/pms-1595328229-66393201-600x600-85.png",
             "status": "Active"
         },
         {
@@ -85,7 +85,7 @@
             "codename": "a51",
             "brand": "Samsung",
             "maintainer": "PARBINDAR7",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/V1XgWVc/1000192621-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -93,7 +93,7 @@
             "codename": "m21",
             "brand": "Samsung",
             "maintainer": "PARBINDAR7",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/21R2jBHx/1000192625-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -101,7 +101,7 @@
             "codename": "m31",
             "brand": "Samsung",
             "maintainer": "PARBINDAR7",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/ns9VYQV9/1000192627-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -109,7 +109,7 @@
             "codename": "alioth",
             "brand": "Xiaomi",
             "maintainer": "OnettBoots&Yaseakun",
-            "image_url": "https://wiki.lineageos.org/images/devices/alioth.png",
+            "image_url": "https://i.ibb.co.com/JjR2BX2X/669d86c5-e3b8-e90b-70db-5addb2b9d329-890a4b7db7a5bec14be21049fc656fee.png",
             "status": "Active"
         },
         {
@@ -117,7 +117,7 @@
             "codename": "munch",
             "brand": "Xiaomi",
             "maintainer": "Kenskuyy",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/Ng2YB3zC/pms-1655810010-28138527.png",
             "status": "Active"
         },
         {
@@ -125,7 +125,7 @@
             "codename": "peridot",
             "brand": "Xiaomi",
             "maintainer": "ramshell688",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/zW96MVrw/1000192590-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -133,7 +133,7 @@
             "codename": "surya",
             "brand": "Xiaomi",
             "maintainer": "Skyy丨アラタ",
-            "image_url": "https://wiki.lineageos.org/images/devices/surya.png",
+            "image_url": "https://i.ibb.co.com/jP6hdQXH/pms-1602671103-00774506-600x600-85.png",
             "status": "Active"
         },
         {
@@ -141,7 +141,7 @@
             "codename": "zorn",
             "brand": "Xiaomi",
             "maintainer": "SMGReborn",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/5JHL5Gf/7e4946161a115c142b9a4880b1551778.png",
             "status": "Active"
         },
         {
@@ -149,7 +149,7 @@
             "codename": "veux",
             "brand": "Xiaomi",
             "maintainer": "MrTopiA",
-            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-pro-5g-global.jpg",
+            "image_url": "https://i.ibb.co/4syxpfw/330608dc148bfa50f6326d996d6c8e8b.png",
             "status": "Active"
         },
         {
@@ -157,7 +157,7 @@
             "codename": "rodin",
             "brand": "Xiaomi",
             "maintainer": "Nazephyrus",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/397vdCfM/0ebf8f7e88545795e4d331457d81f610.png",
             "status": "Active"
         },
         {
@@ -165,7 +165,7 @@
             "codename": "sky",
             "brand": "Xiaomi",
             "maintainer": "kAiF",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/B5t2dQL0/redmi12-5-G-jadeblack-1-png.png",
             "status": "Active"
         },
         {
@@ -173,7 +173,7 @@
             "codename": "lancelot",
             "brand": "Xiaomi",
             "maintainer": "doissM",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/PvDtCByj/pms-1605596493-88735853-600x600-85.png",
             "status": "Active"
         },
         {
@@ -181,7 +181,7 @@
             "codename": "blossom",
             "brand": "Xiaomi",
             "maintainer": "Jayed",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/DHgDbdfS/1000192596-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -189,7 +189,7 @@
             "codename": "raphael",
             "brand": "Xiaomi",
             "maintainer": "Muhammad Al-Arabi",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/7JJYdHqQ/1000192598-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -197,7 +197,7 @@
             "codename": "xaga",
             "brand": "Xiaomi",
             "maintainer": "ExWhyZed9",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/Y7MDYszx/pms-1635414285-13045403.png",
             "status": "Active"
         },
         {
@@ -205,7 +205,7 @@
             "codename": "sweet",
             "brand": "Xiaomi",
             "maintainer": "Djampt",
-            "image_url": "https://wiki.lineageos.org/images/devices/sweet.png",
+            "image_url": "https://i.ibb.co.com/84881L3z/1000192601-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -213,7 +213,7 @@
             "codename": "sweet_k6a",
             "brand": "Xiaomi",
             "maintainer": "ℝ𝕖𝕧𝕖𝕣𝕤𝕖𝕕ℝ𝕦𝕝𝕖𝕣༆𖣘",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/8LvGRdyh/7ddd2173c244f629e5da047d7a248729.png",
             "status": "Active"
         },
         {
@@ -221,7 +221,7 @@
             "codename": "garnet",
             "brand": "Xiaomi",
             "maintainer": "HEYDR",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/W4sG1SCs/4c186975ff7d6203d15ae9db1ba7171c.png",
             "status": "Active"
         },
         {
@@ -229,7 +229,7 @@
             "codename": "ginkgo",
             "brand": "Xiaomi",
             "maintainer": "Hirokixd",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/h1d8ct2j/pms-1571195553-98565360-600x600-85.png",
             "status": "Active"
         },
         {
@@ -237,23 +237,23 @@
             "codename": "merlinx",
             "brand": "Xiaomi",
             "maintainer": "doissM",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/Qj7H6KZX/pms-1602331842-91747159-600x600-85.png",
             "status": "Active"
         },
         {
-            "name": "realme 5 Pro",
+            "name": "Realme 5 Pro",
             "codename": "RMX1971",
             "brand": "realme",
             "maintainer": "Bava7325",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/HTWF9qB8/1000192614-removebg-preview.png",
             "status": "Active"
         },
         {
-            "name": "realme 6 Pro",
+            "name": "Realme 6 Pro",
             "codename": "RMX2061",
             "brand": "realme",
             "maintainer": "AminFauzi",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/PGv5zHjw/1000192616-removebg-preview.png",
             "status": "Active"
         },
         {
@@ -261,7 +261,7 @@
             "codename": "tanzanite",
             "brand": "xiaomi",
             "maintainer": "noticesa",
-            "image_url": "",
+            "image_url": "https://i.ibb.co.com/8DjF7TQr/cf0d39869c3e13c5d081d57167e44161.png",
             "status": "Active"
         }
     ]

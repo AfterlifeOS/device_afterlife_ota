@@ -321,6 +321,16 @@
             "status": "Active"
         },
         {
+            "name": "Mi 11X Pro / Mi 11i / Redmi K40 Pro+",
+            "codename": "haydn",
+            "brand": "Xiaomi",
+            "maintainer": "Hexdare",
+            "github_username": "Hexdare",
+            "image_url": "https://i.ibb.co.com/bR8ckqTP/aj-Zlb08206.png",
+            "pling_id": "2339816",
+            "status": "Active"
+        },
+        {
             "name": "Redmi Note 8",
             "codename": "ginkgo",
             "brand": "Xiaomi",

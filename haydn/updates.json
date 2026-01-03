@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "Hexdare",
+            "oem": "Xiaomi",
+            "device": " Mi 11X Pro / Mi 11i / Redmi K40 Pro+",
+            "device_code": "haydn",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/device/haydn",
+            "forum": "https://t.me/AsimBuildSupport",
+            "telegram": "https://t.me/Hexdare",
+            "variants": {
+                "coregapps": {
+                    "codename": "Serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_haydn-8.2-serenity-official_20260103-coregapps.zip",
+                    "timestamp": 1767441069,
+                    "md5": "1fe998c8605edd59f65fd3bfa69c8543",
+                    "sha256": "7b7f4ada65f405bdc0994d1ecb17336d0dfb6c2d37aaa5f3d5f351b58c3cb53b",
+                    "size": 2220990673
+                }
+            }
+        }
+    ]
+}

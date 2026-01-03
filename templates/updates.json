@@ -6,7 +6,7 @@
             "device": "Device name (ex. POCO X3 NFC)",
             "device_code": "templates",
             "buildtype": "official",
-            "download": "https://afterlifeos.com/device/templates",
+            "download": "https://afterlifeos.com/download/?search=templates",
             "forum": "Your support group (ex. https://t.me/ArataXDummy)",
             "telegram": "your telegram link (ex. https://t.me/HinohArata)",
             "variants": {

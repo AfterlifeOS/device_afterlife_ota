@@ -349,6 +349,26 @@
             "image_url": "https://i.ibb.co.com/Qj7H6KZX/pms-1602331842-91747159-600x600-85.png",
             "pling_id": "2162285",
             "status": "Active"
+        },
+        {
+            "name": "Mi A2 Lite",
+            "codename": "daisy",
+            "brand": "Xiaomi",
+            "maintainer": "FARHAN_MUH_TASIM",
+            "github_username": "Gtajisan",
+            "image_url": "https://i.ibb.co.com/GfSSRSr0/Mia2litegold.webp",
+            "pling_id": "2340151",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi 6 Pro",
+            "codename": "sakura",
+            "brand": "Xiaomi",
+            "maintainer": "FARHAN_MUH_TASIM",
+            "github_username": "Gtajisan",
+            "image_url": "https://i.ibb.co.com/21CtN7RL/pms-1535513470-12839107-400x400-85.png",
+            "pling_id": "2340159",
+            "status": "Active"
         }
     ]
 }

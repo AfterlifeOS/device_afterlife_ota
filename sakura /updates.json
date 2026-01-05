@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "FARHAN_MUH_TASIM",
+            "oem": "AfterlifeOS",
+            "device": "sakura",
+            "device_code": "sakura",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/download/?search=sakura",
+            "forum": "https://t.me/AfterLifeOS",
+            "telegram": "https://t.me/FARHAN_MUH_TASIM",
+            "variants": {
+                "vanilla": {
+                    "codename": "Serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_sakura-8.2-serenity-official_20260105-vanilla.zip",
+                    "timestamp": 1767614941,
+                    "md5": "d82f653fb8ccfb613c0ffec686c2f05f",
+                    "sha256": "3affe6b1efcb726043ada9852ee2c24a756d9436c8d193ded8442490590f0999",
+                    "size": 1209412588
+                }
+            }
+        }
+    ]
+}

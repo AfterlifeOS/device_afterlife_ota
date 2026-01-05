@@ -1,4 +1,16 @@
 # Realme 5 Pro (RMX1917)
+## Version - **8.2 Serenity**
+### **Build date** - 5 January 2026
+- Sync with latest source
+- December security patch
+- Realme Parts & Ambient Display settings migrated to AndroidX fullly.
+- Many changes there but I'm lazy to write it.
+- Just flash it & enjoy!
+- More improvements & bug fixes!
+- Gapps not included(vanilla build)
+- You can use any gapps package if you want.
+- Enforcing, User & Signed Build!
+
 ## Version - **8.1 Happiness**
 ### **Build date** - 25 November 2025
 - Sync with Latest AfterlifeOS A16 source upstream

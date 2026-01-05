@@ -11,13 +11,13 @@
             "telegram": "https://t.me/Bava7325",
             "variants": {
                 "vanilla": {
-                    "codename": "happiness",
-                    "version": "8.1",
-                    "filename": "AfterlifeOS_RMX1971-8.1-happiness-official_20251124-vanilla.zip",
-                    "timestamp": 1764026174,
-                    "md5": "bab9f5bafb2a5e04f73f8e0d8de62d96",
-                    "sha256": "591fe4468595c7d673b2bb63573a8fbf69e6dedd44a67e1c6f06568e5464d44e",
-                    "size": 1472210646
+                    "codename": "Serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_RMX1971-8.2-serenity-official_20260105-vanilla.zip",
+                    "timestamp": 1767624186,
+                    "md5": "7d9f87721af26992d4c10c0eadfa33a0",
+                    "sha256": "5b3333ff4cd882a3a1db4b13e74e14a7e567003cdd4b7bc09309e905e0d51c8b",
+                    "size": 1466065178
                 }
             }
         }

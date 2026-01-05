@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "FARHAN_MUH_TASIM",
+            "oem": "Xiaomi",
+            "device": "Mi A2 Lite",
+            "device_code": "daisy",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/download/?search=daisy",
+            "forum": "https://t.me/Farhan_build_discussion",
+            "telegram": "https://t.me/FARHAN_MUH_TASIM",
+            "variants": {
+                "vanilla": {
+                    "codename": "Serenity",
+                    "version": "8.2",
+                    "filename": "AfterlifeOS_daisy-8.2-serenity-official_20260105-vanilla.zip",
+                    "timestamp": 1767617722,
+                    "md5": "9a3a7a83542118fa6ff42198c56af594",
+                    "sha256": "df40bf0395987680a1ef87945247e1b2cf69b6a358860703e156ddf1ad201b1b",
+                    "size": 941569727
+                }
+            }
+        }
+    ]
+}

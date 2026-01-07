@@ -1,0 +1,18 @@
+[
+    {
+        "version": "AfterlifeOS v8.2 Serenity",
+        "date": "December 10, 2025",
+        "isLatest": true,
+        "changes": "\nMerge tag ‘android-security-16.0.0_r3\nAdd Support for basicGApps and CoreGApps\nApply IOs recent style to AfterHome\nImprove AfterHome\nAllow changing the leght of gesture navbar\nAdd enable TaskBar\nSupport Circle to search Vanilla and GApps build\nFix Hide arrow for back gesture\nAllow Togling rotation button sugestion\nAdd option for disable album art in Qs\nRemove Aosp media player logic in Qs\nAdd support per app volume\nAllow move Volume panel to left\nFix HeadsUp timeout feature not work\nAdd Navbar Hint\nImplement burn in protection for statusbar\nAdd tuning for statusbar padding\nImplement Island notification\nImplement Island Now Playing\nImplement Wi-Fi and Bluetooth time out\nAdd suppress notification sound and vibration\nAllow locking task to recent\nImprove Lify Qs for more smoothness and battery friendly\nSet Data usage reset in Lify Qs\nAdd Ringer Slider tile\nSync Ringer Slider with our shape customization\nAdd notification transparency toggle\nImplement granural notification transparency control\nImprove Island Notification features for smoothness\nRedesign Updater Section\nImprove stability and performance\n        "
+    },
+    {
+        "version": "AfterlifeOS v8.1 Happiness",
+        "date": "November 09, 2025",
+        "changes": "\nBump security string to November 1, 2025\nFollow Light and Dark Theme In QuickSettings\nIntoduce Lify Qs (AfterlifeQs)\nSeparated Double tap to sleep lockscreen\nAdd QsHeader Image Cusromization\nAdd Omnijaws Client (AfterlifeQs)\nAdd Data Usage Logic (AfterlifeQs)\nImplement Edge To Edge display function\nAdd Doze OnCharge Customization\nAdd Support Flashlight Strenght Control\nAllow to disable Bluethooth battery level status\nAdd Support LMO freeform sidebar\nSync Tile Shape with Afterlife Qs tile\nAdd Proper circle qs tile shape\nAdd Toggle Qs Haptic Feedback\nAllow to change system wide blur\nAllow hiding navigation IMe bar\nSupport Updater from now\nImprove stability and performance\n        "
+    },
+    {
+        "version": "AfterlifeOS v8.0 Brotherhood",
+        "date": "October 02, 2025",
+        "changes": "\nInitial release for A16\n        "
+    }
+]

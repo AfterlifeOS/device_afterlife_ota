@@ -1,4 +1,29 @@
 # Poco F3 (Alioth)
+## Version - **8.3-lastblood**
+### **Build date** - 28 February 2026
+- Allow mi_thermald read/write access to HBM sysfs
+- Properly disable phantom process killing
+- init: Give proper permissions for /dev/diag
+- props: enable_camera_smooth
+- Fix touch thermal profile cant turned on
+- Uprev vendor.qti.hardware.bluetooth_audio to 2.1
+- Allow toolbox to manage resourcecache_data_file
+- Import 64 bit vendor.qti.hardware.bluetooth_audio@2.1-impl.so
+- Enable QCRIL radio power saving
+- Add Gryphline games to unity boosting
+- Disable GPU protected composition
+- Limit dex2oat cpu utilization
+- Disable WiFi Multi-STA
+- Update some Prebuilts from HyperOS 1.0.5.0 Mi
+- Disable MTE on system_server and apps
+- Override kernel BPF version
+- wifi: Add parameters for Hotspot 2.0
+- Allow devicesettings_app to access LiveDisplay tuneables
+- Label expressive design and skia renderthread properties
+- Allow vendor_init to tune kernel scheduler interfaces
+- Label libgpudataproducer.so to address denial
+---
+
 ## Version - **8.2 Serenity (HOTFIX)**
 ### **Build date** - 24 December 2025
 - Increase SurfaceFlinger idle and touch timers

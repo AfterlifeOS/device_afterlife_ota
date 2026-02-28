@@ -238,7 +238,7 @@
             "github_username": "askthekaif",
             "image_url": "https://i.ibb.co.com/B5t2dQL0/redmi12-5-G-jadeblack-1-png.png",
             "pling_id": "2338803",
-            "status": "Active"
+            "status": "Inactive"
         },
         {
             "name": "Redmi 9",
@@ -314,8 +314,8 @@
             "name": "Redmi Note 14 4G",
             "codename": "tanzanite",
             "brand": "Xiaomi",
-            "maintainer": "noticesa",
-            "github_username": "itswill00",
+            "maintainer": "noticesa&Yaseakun",
+            "github_username": "skenakun",
             "image_url": "https://i.ibb.co.com/8DjF7TQr/cf0d39869c3e13c5d081d57167e44161.png",
             "pling_id": "2328790",
             "status": "Active"

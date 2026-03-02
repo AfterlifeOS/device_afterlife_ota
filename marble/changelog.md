@@ -1,6 +1,6 @@
 # Poco F5 (Marble)
-## Version - **8.2 Serenity**                                                
-### **Build date** - 12 December 2025
+## Version - **8.3 Lastblood**                                                
+### **Build date** - 02 Maret 2026
 - Initial release Android 16 - QPR2 
 - Add new dolby UI
 - Add GameBar New UI

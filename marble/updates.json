@@ -11,13 +11,13 @@
             "telegram": "https://t.me/Maulanariaddy",
             "variants": {
                 "gapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_marble-8.2-serenity-official_20251212-gapps.zip",
-                    "timestamp": 1765511645,
-                    "md5": "bd8b60c39bbd4c75df3bbd4196da6dca",
-                    "sha256": "00a555e9d05c7c86e5b0e8425e36e6c53576a7eaf2f1ebe1e53ace6f57952c19",
-                    "size": 3010862580
+                    "codename": "lastblood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_marble-8.3-lastblood-official_20260301-gapps.zip",
+                    "timestamp": 1772400075,
+                    "md5": "14913249c265f20f5a03484523e29d02",
+                    "sha256": "a489c14dec98c276be142cabdaf50761636226c3547ed9b5b7dda029deac0c2d",
+                    "size": 2942578620
                 }
             }
         }

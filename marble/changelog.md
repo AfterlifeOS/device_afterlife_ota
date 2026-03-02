@@ -1,4 +1,17 @@
 # Poco F5 (Marble)
+## Version - **8.2 Serenity**                                                
+### **Build date** - 12 December 2025
+- Initial release Android 16 - QPR2 
+- Add new dolby UI
+- Add GameBar New UI
+- Bringback default use thermal profile
+- Switch audio prebuilts
+- Disable log spam
+- Use default lz4
+- Use Swappiness 60%
+- Fixup! sepolicy broken in android 16 QPR2
+- Improve stability and performance
+
 ## Version - **8.2 Serenity**
 ### **Build date** - 12 December 2025
 - Fixed! Screen freeze recovery

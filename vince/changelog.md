@@ -1,4 +1,18 @@
 # Redmi 5 Plus (vince)
+## Version - **8.3-lastblood**
+### **Build date** - 04 March 2026
+- kernel: Merge LineageOS/android_kernel_qcom_sm8250
+- fixed DT2W
+- fixed novatek touchscreen
+- update synaptics touchscreen drivers from msm-4.19
+- update nt36xxx touchscreen drivers from msm-5.10
+- fix slow charger on some devices
+- Improvements dts for vince
+- Update generic AW2013 LEDs drivers
+- use latest camera_v2 msm-4.19
+- fix lab/ibb voltage for novatek panel
+---
+
 ## Version - **8.2 Serenity (HOTFIX)**
 ### **Build date** - 26 December 2025
 - Address sepolicy denial for biometrics HALs

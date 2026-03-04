@@ -105,9 +105,19 @@
             "codename": "vince",
             "brand": "Xiaomi",
             "maintainer": "RenzAlt",
-            "github_username": "KanadeAlt",
+            "github_username": "imren0x",
             "image_url": "https://i.ibb.co.com/rGKdMNWB/pms-1543765940-08298261-600x600-85.png",
             "pling_id": "2162217",
+            "status": "Active"
+        },
+        {
+            "name": "Redmi S2/Y2",
+            "codename": "ysl",
+            "brand": "Xiaomi",
+            "maintainer": "RenzAlt",
+            "github_username": "imren0x",
+            "image_url": "https://i.ibb.co.com/9Hh54q72/1000230702-removebg-preview.png",
+            "pling_id": "2162218",
             "status": "Active"
         },
         {

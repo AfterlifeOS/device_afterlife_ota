@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "RenzAlt",
+            "oem": "Xiaomi",
+            "device": "Redmi S2/Y2",
+            "device_code": "ysl",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/download/?search=ysl",
+            "forum": "https://t.me/MI8953",
+            "telegram": "https://t.me/me_renzalt",
+            "variants": {
+                "vanilla": {
+                    "codename": "lastblood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_ysl-8.3-lastblood-official_20260304-vanilla.zip",
+                    "timestamp": 1772607257,
+                    "md5": "58ab37d6a1a6b7b44b27ed833e9723aa",
+                    "sha256": "dfdf8bbbcb26ad14b5ae9d156633881820435b255bde7b151ed72775dde8a622",
+                    "size": 1238853972
+                }
+            }
+        }
+    ]
+}

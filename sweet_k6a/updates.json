@@ -2,7 +2,7 @@
     "response": [
         {
             "maintainer": "ℝ𝕖𝕧𝕖𝕣𝕤𝕖𝕕ℝ𝕦𝕝𝕖𝕣༆𖣘",
-            "oem": "Xiaomi",
+            "oem": "AfterlifeOS",
             "device": "Redmi Note 12 Pro 4G",
             "device_code": "sweet_k6a",
             "buildtype": "OFFICIAL",
@@ -10,14 +10,14 @@
             "forum": "https://t.me/reversedrulerchat",
             "telegram": "https://t.me/ReversedRuler",
             "variants": {
-                "basicgapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_sweet2-8.2-serenity-official_20251220-basicgapps.zip",
-                    "timestamp": 1766214904,
-                    "md5": "9f7d956cb104a6a578142b648761eee5",
-                    "sha256": "ddc85081cadc0b1726d0ab6cbacd1b469e41e684a0923a1c610c667013195a34",
-                    "size": 1911129939
+                "gapps": {
+                    "codename": "lastblood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_sweet2-8.3-lastblood-official_20260304-gapps.zip",
+                    "timestamp": 1772626927,
+                    "md5": "04486b1fc81541b116f75fdcf31fd86d",
+                    "sha256": "767489f68bc6de789e2c2373919abb877cff6a6678ae6f7aba621c8698b0bb81",
+                    "size": 2716508226
                 }
             }
         }

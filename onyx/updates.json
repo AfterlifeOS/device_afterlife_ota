@@ -5,19 +5,19 @@
             "oem": "Xiaomi",
             "device": "POCO F7",
             "device_code": "onyx",
-            "buildtype": "OFFICIAL",
+            "buildtype": "Community",
             "download": "https://afterlifeos.com/download/?search=onyx",
-            "forum": "",
+            "forum": "https://t.me/AfterLifeOS",
             "telegram": "https://t.me/franlop77",
             "variants": {
                 "gapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_onyx-8.2-serenity-official_20251220-gapps.zip",
-                    "timestamp": 1766220962,
-                    "md5": "c96f90a2d0bf8fd623abe305ed297aab",
-                    "sha256": "8e523a6ec4923eaa3f349e02cae2fc3f8ee13d2031f3ce152b7d556707a1df43",
-                    "size": 4347230805
+                    "codename": "Unknown",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_onyx-8.3-lastblood-official_20260305-gapps.zip",
+                    "timestamp": 1772718391,
+                    "md5": "b39e77d6d27114650f499b2759671de4",
+                    "sha256": "df1b8e6345f16fa9ead5678919cb6c22695f2574830d3c4603110c3464cf191c",
+                    "size": 4505556406
                 }
             }
         }

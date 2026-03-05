@@ -1,4 +1,16 @@
 # Poco F7 (Onyx)
+## Version - **8.3 Lastblood**
+### **Build date** - 05 March 2025
+- Blobs OS3.0.6.0.WOCMIXM
+- Added LunarisDolby
+- Switch to LMC Camera
+- Add Outertune last version
+- Add carrier for Jio
+- Disable P2P wifi scanning
+- Adjust cpu frequency
+- More things that I don't remember now
+---
+
 ## Version - **8.2 Serenity**
 ### **Build date** - 20 December 2025
 - Fixed fingerprint

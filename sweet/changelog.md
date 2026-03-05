@@ -1,4 +1,15 @@
 # Redmi Note 10Pro (Sweet)
+## Version - **8.3 lastblood**
+### **Build Date** - 5 March 2026
+- Initial Build A16 qpr2
+- Switch into sm6150 tree
+- Dolby & Viper Added
+- Leica Camera Default
+- Build Vanilla & Gapps ( NikGapps Rwcomended for Vanilla )
+- Build user, Signed dan Non Erofs
+- Not Add ksu
+---
+
 ## Version - **8.2 Serenity**
 ### **Build date** - 14 December 2025
 - Build 2 Variant BasicGapps & Vanilla

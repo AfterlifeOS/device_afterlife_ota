@@ -3,3 +3,4 @@
 ### **Build date** - 04 March 2025
 - Initial release A16
 - Initial Bringup Kernel 4.19
+- Update latest Camera_v2 stack

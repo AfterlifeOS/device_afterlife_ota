@@ -10,14 +10,14 @@
             "forum": "https://t.me/dampt_cox",
             "telegram": "https://t.me/Djampt",
             "variants": {
-                "basicgapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_sweet-8.2-serenity-official_20251214-basicgapps.zip",
-                    "timestamp": 1765678945,
-                    "md5": "24330150ffc942d11cc4d99a8bbae773",
-                    "sha256": "e3875cca7f751446fcceb27f080ae9ded54e8e94fb003bad45e5bcdb5490f78c",
-                    "size": 2058580782
+                "gapps": {
+                    "codename": "lastblood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_sweet-8.3-lastblood-official_20260305-gapps.zip",
+                    "timestamp": 1772669108,
+                    "md5": "320effcc0addecac8c71da4928978135",
+                    "sha256": "9461c47262014d4dcfeaafc725eebfc95224dc7e8505becb9a9a2e8988e0f57e",
+                    "size": 2697904961
                 }
             }
         }

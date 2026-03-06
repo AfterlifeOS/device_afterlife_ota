@@ -10,14 +10,14 @@
             "forum": "https://t.me/BllsszzDiscuss",
             "telegram": "https://t.me/icaninpasar",
             "variants": {
-                "coregapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_X00TD-8.2-serenity-official_20251216-coregapps.zip",
-                    "timestamp": 1765884047,
-                    "md5": "e9649fa92d1f5066d9d700593a237a3a",
-                    "sha256": "010eccb8db085bbeae8f848ef15a5bbbc9ce933f72a06fc373afe30500c47882",
-                    "size": 1806081249
+                "Vanilla": {
+                    "codename": "LastBlood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_X00TD-8.3-lastblood-official_20260306-vanilla.zip",
+                    "timestamp": 1772745488,
+                    "md5": "ecfefa05d973913f0504a6a44668c8f0",
+                    "sha256": "1e2462e91e24b8ad75c2b8692b451d8f4f3792eb580b1b99",
+                    "size": 1583899615
                 }
             }
         }

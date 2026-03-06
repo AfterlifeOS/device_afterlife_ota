@@ -5,19 +5,19 @@
             "oem": "Xiaomi",
             "device": "POCO X5 Pro",
             "device_code": "redwood",
-            "buildtype": "OFFICIAL",
+            "buildtype": "official",
             "download": "https://afterlifeos.com/download/?search=redwood",
             "forum": "https://t.me/thereachebuildchat",
             "telegram": "https://t.me/Thereache",
             "variants": {
                 "gapps": {
-                    "codename": "Serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_redwood-8.2-serenity-official_20260102-gapps.zip",
-                    "timestamp": 1767367432,
-                    "md5": "095472fa3186320d86c4b8b182d10bc2",
-                    "sha256": "eceb9ff8b571555241c2df34fc38e821fcbde992a9b5946ce5cc756da0355db4",
-                    "size": 2635704492
+                    "codename": "lastblood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_redwood-8.3-lastblood-official_20260305-gapps.zip",
+                    "timestamp": 1772733177,
+                    "md5": "abfbbfec2f9c25e1b06c98d36a276a12",
+                    "sha256": "387df5fb7abadd8f5af36c3b540464de1ac4e8a6b81024dfda204898f3fff24a",
+                    "size": 2613331555
                 }
             }
         }

@@ -1,4 +1,16 @@
 # Asus Zenfone Max Pro M1 (X00TD)
+
+## Version - **8.3 LastBlood**
+## **Build date** - 06 March 2026
+- Big Thanks to @queenserenade
+- For Gaaps user Please set your APN manually in the settings for your internet connection. 
+- initial Qpr2 Official build
+- disable blur for optimization
+- Shipped with TheOneMemory Kernel
+- Rksu / Ksu default root
+- And many other changes, try it :v
+---
+
 ## Version - **8.2 Serenity**
 ### **Build date** - 16 December 2025
 - Add FuseFS support

@@ -5,13 +5,13 @@
             "oem": "Xiaomi",
             "device": "POCO F7",
             "device_code": "onyx",
-            "buildtype": "Community",
+            "buildtype": "Official",
             "download": "https://afterlifeos.com/download/?search=onyx",
             "forum": "https://t.me/AfterLifeOS",
             "telegram": "https://t.me/franlop77",
             "variants": {
                 "gapps": {
-                    "codename": "Unknown",
+                    "codename": "LastBlood",
                     "version": "8.3",
                     "filename": "AfterlifeOS_onyx-8.3-lastblood-official_20260305-gapps.zip",
                     "timestamp": 1772718391,

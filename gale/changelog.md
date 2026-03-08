@@ -1,6 +1,6 @@
-# Redmi 13C / Poco C65 (gale/gudt)
+# Redmi 13C / Poco C65 (gale/gust)
 ## Version - **8.3 Lastblood**
-### **Build date** - 08 Maret 2026
+### **Build date** - 08 March 2026
 - Initial Official release
 - GApps build
 - Drop Unused Audio Codecs

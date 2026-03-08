@@ -382,7 +382,7 @@
         },
         {
             "name": "Redmi 13C / Poco C65",
-            "codename": "gale/gust",
+            "codename": "gale",
             "brand": "Xiaomi",
             "maintainer": "vannxavero",
             "github_username": "vannkyle",

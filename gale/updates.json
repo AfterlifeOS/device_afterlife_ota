@@ -5,13 +5,13 @@
             "oem": "Xiaomi",
             "device": "Redmi 13C / Poco C65",
             "device_code": "gale",
-            "buildtype": "official",
+            "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/download/?search=gale",
             "forum": "https://t.me/epankngopi",
             "telegram": "https://t.me/panzzxz",
             "variants": {
                 "gapps": {
-                    "codename": "lastblood",
+                    "codename": "LastBlood",
                     "version": "8.3",
                     "filename": "AfterlifeOS_gale-8.3-lastblood-official_20260307-gapps.zip",
                     "timestamp": 1772921045,

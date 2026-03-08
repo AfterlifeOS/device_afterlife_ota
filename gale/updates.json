@@ -2,8 +2,8 @@
     "response": [
         {
             "maintainer": "vannxavero",
-            "oem": "AfterlifeOS",
-            "device": "gale",
+            "oem": "Xiaomi",
+            "device": "Redmi 13C / Poco C65",
             "device_code": "gale",
             "buildtype": "official",
             "download": "https://afterlifeos.com/download/?search=gale",

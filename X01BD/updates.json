@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "qǝuʞz",
+            "oem": "Asus",
+            "device": "Asus Zenfone Max Pro M2",
+            "device_code": "X01BD",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/download/?search=X01BD",
+            "forum": "https://t.me/wzrdgrp",
+            "telegram": "https://t.me/queenserenade",
+            "variants": {
+                "vanilla": {
+                    "codename": "LastBlood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_X01BD-8.3-lastblood-official_20260308-vanilla.zip",
+                    "timestamp": 1772968280,
+                    "md5": "b76d87814a353cd6665198a81e418988",
+                    "sha256": "82a0e35facd58fbf2081b1b6aa3c7ba342e2b7b39486e2b531479c60559a2124",
+                    "size": 1532081652
+                }
+            }
+        }
+    ]
+}

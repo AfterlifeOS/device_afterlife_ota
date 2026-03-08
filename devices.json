@@ -11,6 +11,16 @@
             "status": "Active"
         },
         {
+            "name": "Asus Zenfone Max Pro M2",
+            "codename": "X01BD",
+            "brand": "Asus",
+            "maintainer": "qǝuʞz",
+            "github_username": "Tiktodz",
+            "image_url": "https://i.ibb.co.com/pBmWK5SG/00d90384a092e318c4bcd6ce5f5c2a73-removebg-preview.png",
+            "pling_id": "2351020",
+            "status": "Active"
+        },
+        {
             "name": "Pixel 8",
             "codename": "shiba",
             "brand": "Google",

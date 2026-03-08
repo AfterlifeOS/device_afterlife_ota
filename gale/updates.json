@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "vannxavero",
+            "oem": "AfterlifeOS",
+            "device": "gale",
+            "device_code": "gale",
+            "buildtype": "official",
+            "download": "https://afterlifeos.com/download/?search=gale",
+            "forum": "https://t.me/epankngopi",
+            "telegram": "https://t.me/panzzxz",
+            "variants": {
+                "gapps": {
+                    "codename": "lastblood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_gale-8.3-lastblood-official_20260307-gapps.zip",
+                    "timestamp": 1772921045,
+                    "md5": "f26350f96b4bc5d7f88fc0aaa41c26c8",
+                    "sha256": "d3c0da3c7183bfe479aff3fe776c0c74e5ca8abad9e6bddcd4030a55c31414ee",
+                    "size": 2048877160
+                }
+            }
+        }
+    ]
+}

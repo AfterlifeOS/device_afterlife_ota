@@ -381,6 +381,16 @@
             "status": "Active"
         },
         {
+            "name": "Redmi 13C / Poco C65",
+            "codename": "gale/gust",
+            "brand": "Xiaomi",
+            "maintainer": "vannxavero",
+            "github_username": "vannkyle",
+            "image_url": "https://i.ibb.co.com/PGw5b2Tk/4b514d93ffacb3f166411fd704873678.png",
+            "pling_id": "2350998",
+            "status": "Active"
+        },
+        {
             "name": "Redmi 11 Prime / POCO M5",
             "codename": "rock",
             "brand": "Xiaomi",

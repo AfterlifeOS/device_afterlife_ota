@@ -171,6 +171,16 @@
             "status": "Active"
         },
         {
+            "name": "Galaxy S10+",
+            "codename": "beyond2lte",
+            "brand": "Samsung",
+            "maintainer": "Iverz",
+            "github_username": "asterixiverz",
+            "image_url": "https://i.ibb.co.com/G30NWfxK/beyond2lte-removebg-preview.png",
+            "pling_id": "2351117",
+            "status": "Active"
+        },
+        {
             "name": "POCO F3",
             "codename": "alioth",
             "brand": "Xiaomi",

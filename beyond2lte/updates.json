@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "Iverz",
+            "oem": "Samsung",
+            "device": "Samsung Galaxy S10+",
+            "device_code": "beyond2lte",
+            "buildtype": "Official",
+            "download": "https://afterlifeos.com/download/?search=beyond2lte",
+            "forum": "https://t.me/ivzpleygron",
+            "telegram": "@asterixiverz",
+            "variants": {
+                "vanilla": {
+                    "codename": "LastBlood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_beyond2lte-8.3-lastblood-official_20260309-vanilla.zip",
+                    "timestamp": 1773046516,
+                    "md5": "e050fc6e9a74c19674d86b27c9dd0207",
+                    "sha256": "224ac535aeb213c84d8ae6fb6ff2f2b6abfd55bd3e6d100d1371622777baaa3e",
+                    "size": 1424456828
+                }
+            }
+        }
+    ]
+}

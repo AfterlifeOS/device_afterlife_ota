@@ -2,8 +2,8 @@
     "response": [
         {
             "maintainer": "Luxured",
-            "oem": "AfterlifeOS",
-            "device": "duchamp",
+            "oem": "Xiaomi",
+            "device": "POCO X6 Pro",
             "device_code": "duchamp",
             "buildtype": "Official",
             "download": "https://afterlifeos.com/download/?search=duchamp",

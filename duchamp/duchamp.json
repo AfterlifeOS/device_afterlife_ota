@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "Luxured",
+            "oem": "AfterlifeOS",
+            "device": "duchamp",
+            "device_code": "duchamp",
+            "buildtype": "Official",
+            "download": "https://afterlifeos.com/download/?search=duchamp",
+            "forum": "https://t.me/LuxuredAOSP",
+            "telegram": "https://t.me/luxured",
+            "variants": {
+                "gapps": {
+                    "codename": "LastBlood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_duchamp-8.3-lastblood-official_20260311-gapps.zip",
+                    "timestamp": 1773230051,
+                    "md5": "0fbf8b2ed19c2cd54aaa61a5564b62bf",
+                    "sha256": "7579df7895d7a3c0f987af61b5e6ed225b630e7cdb238d618858b9b34ffddd0e",
+                    "size": 3185089299
+                }
+            }
+        }
+    ]
+}

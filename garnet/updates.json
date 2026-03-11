@@ -13,11 +13,11 @@
                 "gapps": {
                     "codename": "lastblood",
                     "version": "8.3",
-                    "filename": "AfterlifeOS_garnet-8.3-lastblood-official_20260308-gapps.zip",
-                    "timestamp": 1772983368,
-                    "md5": "d65cd1ad9a2e96a60953b1d89cdb41ad",
-                    "sha256": "da5cbda068eba40fef498378b4818e99b42396fb4a0dc24e7df5597834484a94",
-                    "size": 2849333685
+                    "filename": "AfterlifeOS_garnet-8.3-lastblood-official_20260310-gapps.zip",
+                    "timestamp": 1773185598,
+                    "md5": "c41e0d90bdcae3dcb0f6b750d30443ca",
+                    "sha256": "78df4c714066c8fe806a69b3d760109b79953084ad8d15bbf645c3b6d90e20c9",
+                    "size": 2844227984
                 }
             }
         }

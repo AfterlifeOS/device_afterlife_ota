@@ -1,4 +1,14 @@
 # Redmi Note 13 Pro 5G / Poco X6 5G (Garnet)
+## Version - **8.3 Lastblood** (HOTFIX)
+### **Build date** - 10 March 2026
+- Kernel rebase
+- Pre-rooted support SukiSU & ReSukiSU
+- Fix external audio issue
+- Fix voice calls always play through the loudspeaker instead of the earpiece.
+- LunarisDolby UI
+---
+
+# Redmi Note 13 Pro 5G / Poco X6 5G (Garnet)
 ## Version - **8.3 Lastblood**
 ### **Build date** - 08 March 2026
 - GApps Build 

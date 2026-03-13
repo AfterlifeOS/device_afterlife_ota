@@ -11,13 +11,13 @@
             "telegram": "https://t.me/Hexdare",
             "variants": {
                 "coregapps": {
-                    "codename": "Serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_haydn-8.2-serenity-official_20260103-coregapps.zip",
+                    "codename": "lastblood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_haydn-8.3-lastblood-official_20260312-gapps.zip",
                     "timestamp": 1767441069,
-                    "md5": "1fe998c8605edd59f65fd3bfa69c8543",
-                    "sha256": "7b7f4ada65f405bdc0994d1ecb17336d0dfb6c2d37aaa5f3d5f351b58c3cb53b",
-                    "size": 2220990673
+                    "md5": "3124af9808a7caa27f5bf4505d663f23",
+                    "sha256": "20b97ee88f0aa3428f8f306ae2a14642ed2859edd89da92de07293d3fd332314",
+                    "size": 2939030380
                 }
             }
         }

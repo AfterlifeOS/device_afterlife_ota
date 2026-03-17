@@ -5,19 +5,19 @@
             "oem": "Xiaomi",
             "device": "POCO F4",
             "device_code": "munch",
-            "buildtype": "OFFICIAL",
+            "buildtype": "Official",
             "download": "https://afterlifeos.com/download/?search=munch",
             "forum": "https://t.me/kenskuyyplayground",
             "telegram": "https://t.me/Kenskuyy",
             "variants": {
                 "gapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_munch-8.2-serenity-official_20251212-gapps.zip",
-                    "timestamp": 1765550287,
-                    "md5": "6b87bc1bd3d397d843cf5f2ca9ece75b",
-                    "sha256": "9aafaf85bb1354045e29d334f6a5622208641c3ab03b9d3d0dc4743cc03b86c6",
-                    "size": 2615815265
+                    "codename": "LastBlood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_munch-8.3-lastblood-official_20260317-gapps.zip",
+                    "timestamp": 1773759981,
+                    "md5": "0990e611a7d96fac79cd18c5cfe6583b",
+                    "sha256": "67270c9fb8c574b96ee2433007ab12e1c21dd6eb019e83093731fac872fbc100",
+                    "size": 2569059657
                 }
             }
         }

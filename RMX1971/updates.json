@@ -11,13 +11,13 @@
             "telegram": "https://t.me/Bava7325",
             "variants": {
                 "vanilla": {
-                    "codename": "Serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_RMX1971-8.2-serenity-official_20260105-vanilla.zip",
-                    "timestamp": 1767624186,
-                    "md5": "7d9f87721af26992d4c10c0eadfa33a0",
-                    "sha256": "5b3333ff4cd882a3a1db4b13e74e14a7e567003cdd4b7bc09309e905e0d51c8b",
-                    "size": 1466065178
+                    "codename": "LastBlood",
+                    "version": "8.3",
+                    "filename": "AfterlifeOS_RMX1971-8.3-lastblood-official_20260326-vanilla.zip",
+                    "timestamp": 1774521080,
+                    "md5": "27ee400a9844b7ea8205449c52986174",
+                    "sha256": "74efdeb9ed065c6337fe6cdfbfa3855e1f6011b3541343c4ca4716168b21bb64",
+                    "size": 1466144604
                 }
             }
         }

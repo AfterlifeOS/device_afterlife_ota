@@ -1,4 +1,18 @@
 # Realme 5 Pro (RMX1917)
+## Version - **8.3 LastBlood**
+### **Build date** - 30 March 2026
+- Sync with Latest AfterlifeOS A16 source upstream
+- Initial A16 QPR2 build
+- A lot of bpf backports added into kernel to boot A16 qpr2 (Thanks to the respective developers Nanhumly and Kyasu)
+- Updated device tree, kernel tree & vendor tree to boot A16 qpr2.
+- {RealmeParts,Realmedoze}: Convert for M3E support. 
+- {RealmeParts,RealmeDoze}: Apply Expressive theme. And adapted codes in it to compile for A16 qpr2. 
+- Addressed many sepolicy denials
+- Disabled blurs again!
+- Realme Parts & Ambient Display settings migrated to AndroidX fullly.
+- Many changes there but I'm lazy to write it.
+- Just flash it & enjoy!
+
 ## Version - **8.2 Serenity**
 ### **Build date** - 5 January 2026
 - Sync with latest source

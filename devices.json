@@ -429,6 +429,16 @@
             "image_url": "https://i.ibb.co.com/C5zb59Jp/poco-x6-pro-removebg-preview.png",
             "pling_id": "2351438",
             "status": "Active"
+        },
+        {
+            "name": "Realme GT 2 Pro",
+            "codename": "ferrari",
+            "brand": "Realme",
+            "maintainer": "asmodeus_oos",
+            "github_username": "asmodeus-oos",
+            "image_url": "https://i.ibb.co.com/wrK2j9Lg/realme-gt-2-pro-removebg-preview.png",
+            "pling_id": "2354063",
+            "status": "Active"
         }
     ]
 }

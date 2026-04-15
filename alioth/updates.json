@@ -5,19 +5,19 @@
             "oem": "Xiaomi",
             "device": "POCO F3",
             "device_code": "alioth",
-            "buildtype": "OFFICIAL",
+            "buildtype": "Official",
             "download": "https://afterlifeos.com/download/?search=alioth",
             "forum": "https://t.me/yaseaprjktchat",
             "telegram": "https://t.me/Afterlife_update",
             "variants": {
                 "gapps": {
-                    "codename": "lastblood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_alioth-8.3-lastblood-official_20260228-gapps.zip",
-                    "timestamp": 1772264852,
-                    "md5": "a557c97ba8ddc881c7aa76c57c909d06",
-                    "sha256": "67095fed3bd3e6627b380e09a8d3b82217f19c412f4c2206e5c7ac435223d90b",
-                    "size": 2469673954
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_alioth-8.4-ophelia-official_20260415-gapps.zip",
+                    "timestamp": 1776236531,
+                    "md5": "00577130ad4d93f193d2b381865cf1a0",
+                    "sha256": "f8359b97095c4ab051c6bebfe6a2594a8110a3c5d0fd14aa7420f582e7faeddc",
+                    "size": 2481073281
                 }
             }
         }

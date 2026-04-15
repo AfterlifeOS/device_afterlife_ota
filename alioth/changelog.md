@@ -1,4 +1,22 @@
 # Poco F3 (Alioth)
+## Version - **8.4-Ophelia**
+### **Build date** - 15 April 2026
+- props: Do not use phase offsets as duration
+- Enable small battery configuration
+- Disable QCOM system daemon
+- sepolicy: Enable ntsync sepolicy rules
+- Sync kernel to xiaomi_sm8250_kernel_e404 latest
+- Overlays: Also Build AOSP-default color modes
+- Overlays: Switch to vendor-defined color modes
+- Disable logging sensors-hal events
+- props: Enable ro.audio.monitorRotation
+- sepolicy: Allow zygote to access unix_stream_socket
+- sepolicy: Allow untrusted_app to getopt zygote
+- Back to GPU Driver from HyperOS munch V816.0.9.0.ULMMIXM
+- Update blobs from pipa OS2.0.14.0.UMZMIXM
+- Sync kernel to xiaomi_sm8250_kernel_e404 latest
+- Dropped Spoof BuildFingerprint as Pixel Beta and back to HyperOS BuildFingerprint
+
 ## Version - **8.3-lastblood**
 ### **Build date** - 28 February 2026
 - Allow mi_thermald read/write access to HBM sysfs

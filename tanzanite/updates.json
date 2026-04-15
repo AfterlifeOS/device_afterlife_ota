@@ -1,23 +1,23 @@
 {
     "response": [
         {
-            "maintainer": "Yaseakun",
+            "maintainer": "noticesa&Yaseakun",
             "oem": "Xiaomi",
             "device": "Redmi Note 14 4G",
             "device_code": "tanzanite",
-            "buildtype": "OFFICIAL",
+            "buildtype": "Official",
             "download": "https://afterlifeos.com/download/?search=tanzanite",
             "forum": "https://t.me/yaseaprjktchat",
             "telegram": "https://t.me/Yaseakun",
             "variants": {
                 "gapps": {
-                    "codename": "lastblood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_tanzanite-8.3-lastblood-official_20260228-gapps.zip",
-                    "timestamp": 1772258170,
-                    "md5": "152382f17ff11edeb55a93853face735",
-                    "sha256": "edc9ad33499b56e0d823d393c5cd8989a6063a1080a76a4c34c9336cee932565",
-                    "size": 2416742489
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_tanzanite-8.4-ophelia-official_20260415-gapps.zip",
+                    "timestamp": 1776267650,
+                    "md5": "01ebeae04e6666627fae77073d642f83",
+                    "sha256": "0894b6fed09aa12ad6d5d6eeb369ef762c1324ec9ff3b6827bb6ea27e070ec7b",
+                    "size": 2417665972
                 }
             }
         }

@@ -2,7 +2,7 @@
 
 ## Version - **8.4 Ophelia**
 ### **Build date** - 14 April 2026
-- Synced to **Latest 2.5 Source**
+- Synced to **Latest Source**
 - Update blobs from OS1.0.13.0.TKCEUXM
 - Disable the property debug.sf.enable_gl_backpressure
 - Adapt to Lunaris Dolby Atmos

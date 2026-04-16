@@ -18,6 +18,15 @@
                     "md5": "4a3876bac15dcfa2f4656efb21b54e3f",
                     "sha256": "3c5d032bf66f296d5b1aa3c4effd291dd39858f1ba202c9c71d4709d9cc5f14f",
                     "size": 1674448918
+                },
+                "gapps": {
+                    "codename": "ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_veux-8.4-ophelia-official_20260414-gapps.zip",
+                    "timestamp": 1776188104,
+                    "md5": "2437907e0a815f9014ca2c4bcaea8d0f",
+                    "sha256": "60e47ab3f213fb8b86ab4a295755ad71debffff89e075c1c98edadf0edc4045d",
+                    "size": 2345746196
                 }
             }
         }

@@ -1,4 +1,28 @@
 # Redmi Note 14 4G (Tanzanite)
+## Version - **8.4-Ophelia**
+### **Build date** - 15 April 2026
+- Sync RCU settings
+- sepolicy: address vendor_init sysfs denials
+- init: disable multiple kswapd threads
+- init: match cpuset with Pixel layout
+- Allow games to use 120fps
+- rootdir: Drop ext4 fstab entries of dynamic partitions
+- Force to use EROFS
+- rootdir: Set auto for mmcblk0p1
+- sepolicy: Allow recovery to read and write exfat partitions
+- sepolicy: Allow recovery to read sysfs to get mmc type
+- rootdir: Add entry for mounting sdcard in recovery
+- Bump vulkan to 1.3
+- Bump opengl, vulkan deqp level to 2024-03-01
+- Upgrade mali blobs to latest blobs gpu 1.3
+- overlay: Update multiple vibration strength levels overlay for 13
+- overlay: Enable vibration intensity control
+- Disable memcg
+- Disable kmem cgroup accounting
+- Set PELT HALFLIFE to 8ms before early init boot stage
+- Explicitly set log_buf_len
+- Set product marketname properly
+
 ## Version - **8.3-lastblood**
 ### **Build date** - 28 February 2026
 - Initial Release Android 16 QPR2

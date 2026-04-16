@@ -1,5 +1,36 @@
 # Poco F5 (Marble)
-## Version - **8.3 Lastblood**                                                
+## Version - **8.4-Ophelia**
+### **Build date** - 15 April 2026
+- Update blobs and firmware from OS3.0.3.0.VMRMIXM
+- New update GameBar!
+- New Update Dolby Dax!
+- New Touch Polling Rate!
+- Switch audio prebuilts blobs
+- Optimize cpuset configs audio-app
+- Bluetooth: Set "bluetooth.auto_connect_profiles.- enabled" to true
+- Bluetooth: Move PAN properties to system_ext
+- Bluetooth: Move PAN properties to system_ext
+- fixup! wakeup device denials
+- Convert config_screenBrightnessDoze to float
+- Improve Gaming and Thermal Profiles
+- Enable adpf cpu hint for surfaceflinger
+- Minimalizer uclamp values vendor prop
+- Enable UserfaultFD based GC
+- Silence spammy logging
+- Merge LA.VENDOR.1.0.r2-16400-WAIPIO.QISI15.0
+- Merge audio-kernel: Merge tag LA.VENDOR.1.0.r2
+- camera-kernel: Merge tag AU_TECHPACK_CAMERA
+- display-drivers: Merge tag AU_TECHPACK_DISPLAY
+- video-driver: Merge tag AU_TECHPACK_VIDEO
+- mmrm-driver: Merge tag AU_TECHPACK_VIDEO
+- datarmnet: Merge tag LA.VENDOR.1.0.r2
+- vdatarmnet-ext: Merge tag LA.VENDOR.1.0.r2
+- dataipa: Merge tag LA.VENDOR.1.0.r2
+- wlan/qcacld-3.0: Merge tag LA.VENDOR.1.0.r2
+- wlan/qca-wifi-host-cmn: Merge tag LA.VENDOR.1.0.r2
+- display: dsi: Add missing max_hs_timer_supported
+
+## Version - **8.3 Lastblood**                                         
 ### **Build date** - 02 Maret 2026
 - Initial release Android 16 - QPR2 
 - Add new dolby UI

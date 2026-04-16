@@ -5,19 +5,19 @@
             "oem": "Xiaomi",
             "device": "POCO F5",
             "device_code": "marble",
-            "buildtype": "OFFICIAL",
+            "buildtype": "Official",
             "download": "https://afterlifeos.com/download/?search=marble",
             "forum": "https://t.me/mauls_build",
             "telegram": "https://t.me/Maulanariaddy",
             "variants": {
                 "gapps": {
-                    "codename": "lastblood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_marble-8.3-lastblood-official_20260301-gapps.zip",
-                    "timestamp": 1772400075,
-                    "md5": "14913249c265f20f5a03484523e29d02",
-                    "sha256": "a489c14dec98c276be142cabdaf50761636226c3547ed9b5b7dda029deac0c2d",
-                    "size": 2942578620
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_marble-8.4-ophelia-official_20260416-gapps.zip",
+                    "timestamp": 1776314218,
+                    "md5": "04c82b4c8af57c3203f4ff3bc433b9ab",
+                    "sha256": "90f591046df3c41d759cbf9e73df7f58e6293d454cdff69e3c960249c6ba1d93",
+                    "size": 2978042017
                 }
             }
         }

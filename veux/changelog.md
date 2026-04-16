@@ -1,4 +1,17 @@
 # Redmi Note 11 Pro 5G (Veux)
+
+## Version - **8.4 Ophelia**
+### **Build date** - 14 April 2026
+- Synced to **Latest 2.5 Source**
+- Update blobs from OS1.0.13.0.TKCEUXM
+- Disable the property debug.sf.enable_gl_backpressure
+- Adapt to Lunaris Dolby Atmos
+- Update dolby blobs
+- Update blair configs
+- Update brightness configs from stallion
+- Configure CPU temp multiplier for doze
+- Miscellaneous Improvements
+
 ## Version - **8.2 Serenity**
 ### **Build date** - 12 December 2025
 - Initial Android 16 OTA Build

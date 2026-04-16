@@ -10,17 +10,8 @@
             "forum": "https://t.me/TopiATVOfficial",
             "telegram": "https://t.me/MrTopia",
             "variants": {
-                "basicgapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_veux-8.2-serenity-official_20251212-basicgapps.zip",
-                    "timestamp": 1765567334,
-                    "md5": "4a3876bac15dcfa2f4656efb21b54e3f",
-                    "sha256": "3c5d032bf66f296d5b1aa3c4effd291dd39858f1ba202c9c71d4709d9cc5f14f",
-                    "size": 1674448918
-                },
                 "gapps": {
-                    "codename": "ophelia",
+                    "codename": "Ophelia",
                     "version": "8.4",
                     "filename": "AfterlifeOS_veux-8.4-ophelia-official_20260414-gapps.zip",
                     "timestamp": 1776188104,

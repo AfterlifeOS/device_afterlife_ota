@@ -10,15 +10,6 @@
             "forum": "https://t.me/udgarch",
             "telegram": "https://t.me/picasso09DV",
             "variants": {
-                "vanilla": {
-                    "codename": "LastBlood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_rock-8.3-lastblood-official_20260308_013641-vanilla.zip",
-                    "timestamp": 1772933675,
-                    "md5": "b022c8dcae965ad1748ebeaf900e6ef4",
-                    "sha256": "88f6598d684154720f9bd4a75c930758cd0da32d734e602dac9f59de565be642",
-                    "size": 1308671213
-                },
                 "gapps": {
                     "codename": "Ophelia",
                     "version": "8.4",

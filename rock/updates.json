@@ -18,6 +18,15 @@
                     "md5": "b022c8dcae965ad1748ebeaf900e6ef4",
                     "sha256": "88f6598d684154720f9bd4a75c930758cd0da32d734e602dac9f59de565be642",
                     "size": 1308671213
+                },
+                "gapps": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_rock-8.4-ophelia-official_20260417_063620-gapps.zip",
+                    "timestamp": 1776407678,
+                    "md5": "9d9f7eebd221cdece4f439d15dc93a0b",
+                    "sha256": "d9b1a17e163fe8f9801020a99aad9260f0779c55514676e7c650b9851abeb3b8",
+                    "size": 2209441360
                 }
             }
         }

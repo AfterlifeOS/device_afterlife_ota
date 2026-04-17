@@ -7,17 +7,17 @@
             "device_code": "zorn",
             "buildtype": "Official",
             "download": "https://afterlifeos.com/download/?search=zorn",
-            "forum": "https://t.me/SMGReborn",
+            "forum": "https://t.me/zornxsmgteams",
             "telegram": "https://t.me/SMGReborn",
             "variants": {
                 "gapps": {
-                    "codename": "happiness",
-                    "version": "8.1",
-                    "filename": "AfterlifeOS_zorn-8.1-happiness-official_20251127-gapps.zip",
-                    "timestamp": 1764235355,
-                    "md5": "844c0ca51e1378c82608e954e3a937f1",
-                    "sha256": "a0c66915b627e7d236752abe542e86d8ce31ad8ab157f75f4aeef4daf3b8544c",
-                    "size": 4059427125
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_zorn-8.4-ophelia-official_20260417-gapps.zip",
+                    "timestamp": 1776395626,
+                    "md5": "eb9e763337a3db30cfb07d892375d3ed",
+                    "sha256": "b6517f7bff645d84857c990e1941f4d71161dfb140016db4f7acfc1d5a0587e0",
+                    "size": 3472080292
                 }
             }
         }

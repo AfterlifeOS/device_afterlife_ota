@@ -1,23 +1,32 @@
 {
     "response": [
         {
-            "maintainer": "BllsszzXD",
+            "maintainer": "EunjiX",
             "oem": "Asus",
             "device": "Asus Zenfone Max Pro M1",
             "device_code": "X00TD",
             "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/download/?search=X00TD",
-            "forum": "https://t.me/BllsszzDiscuss",
-            "telegram": "https://t.me/icaninpasar",
+            "forum": "https://t.me/wzrdgrp",
+            "telegram": "https://t.me/queenserenade",
             "variants": {
-                "Vanilla": {
-                    "codename": "LastBlood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_X00TD-8.3-lastblood-official_20260306-vanilla.zip",
-                    "timestamp": 1772745488,
-                    "md5": "ecfefa05d973913f0504a6a44668c8f0",
-                    "sha256": "1e2462e91e24b8ad75c2b8692b451d8f4f3792eb580b1b99",
-                    "size": 1583899615
+                "vanilla": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_X00TD-8.4-ophelia-official_20260417-vanilla.zip",
+                    "timestamp": 1776427956,
+                    "md5": "fbdab16e123a524dfb3fa8d69cd4fe93",
+                    "sha256": "52c5bda0fbd7558be63c69200cd599895daee2858bac708206ca678a7866b7e9",
+                    "size": 1573039028
+                },
+                "gapps": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_X00TD-8.4-ophelia-official_20260417-gapps.zip",
+                    "timestamp": 1776429475,
+                    "md5": "99bb21403043fef96efdc089a9be38a7",
+                    "sha256": "b93a9bb8c34d18ed3e915bd00d8bf03385eb525df2db3eb753a79bd82f68b50e",
+                    "size": 2272999592
                 }
             }
         }

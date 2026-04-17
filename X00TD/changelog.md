@@ -1,5 +1,16 @@
 # Asus Zenfone Max Pro M1 (X00TD)
 
+## Version - **8.4 Ophelia**
+## **Build date** - 17 April 2026
+- Enable casefolding support on userdata
+- kang pinner service from android 16 zuma
+- Prefer 'cache' backing storage
+- Switch to common lights HAL
+- switch power service to android.hardware.power-service.lineage-libperfmgr
+- switch to uclamp instead of schedtune
+- Big Thanks to @Teh_ecoooo for testing
+---
+
 ## Version - **8.3 LastBlood**
 ## **Build date** - 06 March 2026
 - Big Thanks to @queenserenade

@@ -439,6 +439,16 @@
             "image_url": "https://i.ibb.co.com/wrK2j9Lg/realme-gt-2-pro-removebg-preview.png",
             "pling_id": "2354063",
             "status": "Active"
+        },
+        {
+            "name": "Redmi Note 10S / POCO M5s",
+            "codename": "rosemary",
+            "brand": "Xiaomi",
+            "maintainer": "Mnskkyy",
+            "github_username": "Mnskkyy",
+            "image_url": "https://i.ibb.co.com/4RGwpg2z/rosemary.png",
+            "pling_id": "2162286",
+            "status": "Active"
         }
     ]
 }

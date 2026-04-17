@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "Mnskkyy",
+            "oem": "Xiaomi",
+            "device": "Redmi Note 10S / POCO M5s",
+            "device_code": "rosemary",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/download/?search=rosemary",
+            "forum": "https://t.me/Archive404Discussion",
+            "telegram": "https://t.me/Mnskkyy",
+            "variants": {
+                "gapps": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_rosemary-8.4-ophelia-official_20260417-gapps.zip",
+                    "timestamp": 1776395726,
+                    "md5": "ef238e7ee57fcc8c0e3f9d19846dbd6e",
+                    "sha256": "91e0ab1c4c9d8bacd396cbbd4db1eb1d2bba1ad878f1d535c55eba59f7dad534",
+                    "size": 2202160622
+                }
+            }
+        }
+    ]
+}

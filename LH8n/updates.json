@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "Nazephyrus",
+            "oem": "AfterlifeOS",
+            "device": "LH8n",
+            "device_code": "LH8n",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/download/?search=LH8n",
+            "forum": "https://t.me/nazeloan",
+            "telegram": "https://t.me/nazephyrus",
+            "variants": {
+                "gapps": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_LH8n-8.4-ophelia-official_20260418-gapps.zip",
+                    "timestamp": 1776529012,
+                    "md5": "4a9284ddc0b1640e27e369f731f4d477",
+                    "sha256": "fdc6083ac22bf18b8c60d12df4ce943bd5aec3785fd6374fca9ad269b80caf3b",
+                    "size": 2437946447
+                }
+            }
+        }
+    ]
+}

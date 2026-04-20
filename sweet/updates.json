@@ -5,19 +5,28 @@
             "oem": "Xiaomi",
             "device": "Redmi Note 10 Pro",
             "device_code": "sweet",
-            "buildtype": "official",
+            "buildtype": "OFFICIAL",
             "download": "https://afterlifeos.com/download/?search=sweet",
             "forum": "https://t.me/dampt_cox",
             "telegram": "https://t.me/Djampt",
             "variants": {
                 "gapps": {
-                    "codename": "lastblood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_sweet-8.3-lastblood-official_20260305-gapps.zip",
-                    "timestamp": 1772669108,
-                    "md5": "320effcc0addecac8c71da4928978135",
-                    "sha256": "9461c47262014d4dcfeaafc725eebfc95224dc7e8505becb9a9a2e8988e0f57e",
-                    "size": 2697904961
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_sweet-8.4-ophelia-official_20260420-gapps.zip",
+                    "timestamp": 1776646244,
+                    "md5": "6f29a6ca43617c21fddb50a5b8a876ef",
+                    "sha256": "c2d65bec1fc05176efbd1e8c87110345167a3fd12947582af6c89862585d4ec1",
+                    "size": 2867854543
+                },
+                "vanilla": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_sweet-8.4-ophelia-official_20260420-vanilla.zip",
+                    "timestamp": 1776643340,
+                    "md5": "9188eb4709b5bbce60501638032749ef",
+                    "sha256": "e57a4210bb192a38938a8c0b067efd56c74f509c8bf1c35665b2c396561623a3",
+                    "size": 1799115618
                 }
             }
         }

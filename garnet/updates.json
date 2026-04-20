@@ -11,13 +11,13 @@
             "telegram": "https://t.me/ZylhdrXP",
             "variants": {
                 "gapps": {
-                    "codename": "lastblood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_garnet-8.3-lastblood-official_20260310-gapps.zip",
-                    "timestamp": 1773185598,
-                    "md5": "c41e0d90bdcae3dcb0f6b750d30443ca",
-                    "sha256": "78df4c714066c8fe806a69b3d760109b79953084ad8d15bbf645c3b6d90e20c9",
-                    "size": 2844227984
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_garnet-8.4-ophelia-official_20260419-gapps.zip",
+                    "timestamp": 1776631244,
+                    "md5": "8882ede80f382143fc399b65da5c2e9d",
+                    "sha256": "da3ca282b85c33902658b85e5297b439ae43af525d1d33b9492d6ea08bc0b9cb",
+                    "size": 2863263708
                 }
             }
         }

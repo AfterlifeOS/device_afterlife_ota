@@ -1,4 +1,24 @@
 # Redmi Note 13 Pro 5G / Poco X6 5G (Garnet)
+## Version - **8.4 Ophelia**
+### **Build date** - 19 April 2026
+- Kang Adreno driver from aurora OS3.0.7.0.WNACNXM (V@762.36 OGL & VK 1.3.128)
+- Use hwui and add some hwui props for improve perf
+- Set vulkan as default renderer
+- Relax thermal limits and optimize charging behavior (cr @Flyingsquirrel02)
+- GameBar update (cr @ph12nex)
+- KernelSU-Next 3.2.0 & SUSFS 2.1.0 included
+- Kernel rebase & upstream 5.10.253 (cr @ramabondanp)
+- kernel: Imported Adaptive Deadline I/O Scheduler (ADIOS) v3.2.0
+- kernel: Import Reflex CPUFreq Governor v0.3.0r2
+- kernel: Enabled IP set support
+- power: Improved deep sleep and switched to suspend-to-idle
+- f2fs: Optimized GC, fsync, and cache pressure
+- zRAM: Fixed race conditions and optimized entry flags
+- GPU: Forced idle timeout to 58ms for better balance
+- system: Reduced OOM and scheduler logspam
+- Various upstream fixes and improvements for block & I/O scheduler
+---
+
 ## Version - **8.3 Lastblood** (HOTFIX)
 ### **Build date** - 10 March 2026
 - Kernel rebase

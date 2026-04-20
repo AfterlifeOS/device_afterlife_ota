@@ -449,6 +449,16 @@
             "image_url": "https://i.ibb.co.com/4RGwpg2z/rosemary.png",
             "pling_id": "2162286",
             "status": "Active"
+        },
+        {
+            "name": "Redmi Note 11T 5G / 11S 5G / POCO M4 Pro 5G",
+            "codename": "everpal",
+            "brand": "Xiaomi",
+            "maintainer": "GokuSudoku",
+            "github_username": "himanshuksr0007",
+            "image_url": "https://i.ibb.co.com/MD54vMXP/xiaomi-redmi-note-11t-5g-removebg-preview.png",
+            "pling_id": "2356334",
+            "status": "Active"
         }
     ]
 }

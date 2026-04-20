@@ -1,4 +1,23 @@
 # Redmi Note 10Pro (Sweet)
+## Version - **8.4 Ophelia**
+### **Build Date** - 20 April 2026
+- Update surface flinger timers and disable content detection for refresh rate
+- powerhint: Don't boost top-app when screen is off
+- powerhint: Disable prefer_idle when screen goes off
+- powerhint: Disable high-cap boost when screen is off
+- powerhint: add FIXED_PERFORMANCE
+- Checkout with kiev powerhints
+- Add com.android.bluetooth context to seapp_contexts
+- Do not prefer hw codecs in thumbnail previews
+- Upstreame Semlohey kernel 4.14.357
+- Bringback KernelSu-Next 3.2
+- SuSFS 2.1.0
+- Dolby Atmos
+- Leica Camera 5.0
+- Temporarily suspend Viper
+- NikGapps Recomended Gapps for Vanilla
+- Big Thanks for sm6150 dev based tree, Neobuddy, Morrat, Sidex15, simonpunk and all dev maintainer sweet
+
 ## Version - **8.3 lastblood**
 ### **Build Date** - 5 March 2026
 - Initial Build A16 qpr2

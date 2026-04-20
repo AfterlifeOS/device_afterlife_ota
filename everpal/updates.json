@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "GokuSudoku",
+            "oem": "AfterlifeOS",
+            "device": "Redmi Note 11T 5G / 11S 5G / POCO M4 Pro 5G",
+            "device_code": "everpal",
+            "buildtype": "Official",
+            "download": "https://afterlifeos.com/download/?search=everpal",
+            "forum": "https://t.me/mt6833unified_chat",
+            "telegram": "https://t.me/mt6833unified_updates",
+            "variants": {
+                "gapps": {
+                    "codename": "Unknown",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_everpal-8.4-ophelia-official_20260420-gapps.zip",
+                    "timestamp": 1776655239,
+                    "md5": "44179e53aa1c97e0c8197031fa31091f",
+                    "sha256": "ba6fc140eef804117af2394af8dadfaf05c8f29cbb418396b47c808247085ced",
+                    "size": 2177171054
+                }
+            }
+        }
+    ]
+}

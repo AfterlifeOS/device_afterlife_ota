@@ -13,20 +13,20 @@
                 "vanilla": {
                     "codename": "Ophelia",
                     "version": "8.4",
-                    "filename": "AfterlifeOS_X00TD-8.4-ophelia-official_20260417-vanilla.zip",
-                    "timestamp": 1776427956,
-                    "md5": "fbdab16e123a524dfb3fa8d69cd4fe93",
-                    "sha256": "52c5bda0fbd7558be63c69200cd599895daee2858bac708206ca678a7866b7e9",
-                    "size": 1573039028
+                    "filename": "AfterlifeOS_X00TD-8.4-ophelia-official_20260421-vanilla.zip",
+                    "timestamp": 1776765596,
+                    "md5": "3d367e00bc4659732604df7414a9852d",
+                    "sha256": "99976c3c7302d70c124ff82cbd9feeb72849a457d443487343422f7863f0bc66",
+                    "size": 1538317729
                 },
                 "gapps": {
                     "codename": "Ophelia",
                     "version": "8.4",
-                    "filename": "AfterlifeOS_X00TD-8.4-ophelia-official_20260417-gapps.zip",
-                    "timestamp": 1776429475,
-                    "md5": "99bb21403043fef96efdc089a9be38a7",
-                    "sha256": "b93a9bb8c34d18ed3e915bd00d8bf03385eb525df2db3eb753a79bd82f68b50e",
-                    "size": 2272999592
+                    "filename": "AfterlifeOS_X00TD-8.4-ophelia-official_20260421-gapps.zip",
+                    "timestamp": 1776768776,
+                    "md5": "57ed508b21b4514ff303be9217d32d8a",
+                    "sha256": "1142d46f3e50de5273d40f889ecb4f212dbf71777a593e1cbe083831065c271b",
+                    "size": 2256360604
                 }
             }
         }

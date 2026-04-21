@@ -1,5 +1,13 @@
 # Asus Zenfone Max Pro M1 (X00TD)
 
+## Version - **8.4 Ophelia HOTIX**
+## **Build date** - 21 April 2026
+- Fully regenerate with optimization to new SonicBSV tree
+- Temporarily shipped back to schedtune
+- Installing other kernels will break the NFC tag reading function, camera and may cause other problems.
+- Special Thanks to the power of @SonicBSV trees!
+---
+
 ## Version - **8.4 Ophelia**
 ## **Build date** - 17 April 2026
 - Enable casefolding support on userdata

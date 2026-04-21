@@ -1,6 +1,6 @@
 # Asus Zenfone Max Pro M1 (X00TD)
 
-## Version - **8.4 Ophelia HOTIX**
+## Version - **8.4 Ophelia HOTFIX**
 ## **Build date** - 21 April 2026
 - Fully regenerate with optimization to new SonicBSV tree
 - Temporarily shipped back to schedtune

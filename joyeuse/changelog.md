@@ -1,4 +1,9 @@
 # Redmi Note 9Pro (Joyeuse)
+## Version - **8.4 Ophelia**
+### **Build date** - 21 April 2025
+- Initial Release A16 QPR2
+---
+
 ## Version - **8.2 Serenity**
 ### **Build date** - 21 December 2025
 - NFC payment fixed

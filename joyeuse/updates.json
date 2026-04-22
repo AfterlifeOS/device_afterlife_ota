@@ -11,13 +11,13 @@
             "telegram": "https://t.me/cursed4d",
             "variants": {
                 "gapps": {
-                    "codename": "Serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_joyeuse-8.2-serenity-official_20251220_120155-gapps.zip",
-                    "timestamp": 1766232109,
-                    "md5": "c9903752921504cded368b891014cdc5",
-                    "sha256": "9cb1e157996976f3c0f4bf54f2e113debf5a71be442617012b4159bee3294e16",
-                    "size": 2797373318
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_joyeuse-8.4-ophelia-official_20260421_003746-gapps.zip",
+                    "timestamp": 1776731798,
+                    "md5": "92dfe07850916c403fe14d0801b96faa",
+                    "sha256": "32f9b682504ef0216c0cc3546d9402acc6385028d3105e1856c1a505acc634b1",
+                    "size": 2715593781
                 }
             }
         }

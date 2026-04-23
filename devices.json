@@ -460,7 +460,7 @@
             "pling_id": "2356334",
             "status": "Active"
         },
-		    {
+        {
             "name": "Tecno Pova 5 Pro 5G",
             "codename": "LH8n",
             "brand": "Tecno",
@@ -468,6 +468,16 @@
             "github_username": "naden01",
             "image_url": "https://i.ibb.co.com/VpSM5mHj/tecno-tecno-pova-5-pro-removebg-preview.png",
             "pling_id": "2356327",
+            "status": "Active"
+        },
+        {
+            "name": "Xiaomi Pad 6",
+            "codename": "pipa",
+            "brand": "Xiaomi",
+            "maintainer": "MufasaXz",
+            "github_username": "MufasaXz",
+            "image_url": "https://i.ibb.co.com/TxQxTHHc/xiaomi-xiaomi-redmi-pad-6-removebg-preview.png"
+            "pling_id": "2356826",
             "status": "Active"
         }
     ]

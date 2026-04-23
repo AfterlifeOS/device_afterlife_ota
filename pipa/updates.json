@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "MufasaXz",
+            "oem": "xiaomi",
+            "device": "Xiaomi Pad 6",
+            "device_code": "pipa",
+            "buildtype": "OFFICIAL",
+            "download": "https://afterlifeos.com/download/?search=pipa",
+            "forum": "https://t.me/PAD6Repo",
+            "telegram": "https://t.me/MufasaXz",
+            "variants": {
+                "vanilla": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_pipa-8.4-ophelia-official_20260423-vanilla.zip",
+                    "timestamp": 1776942676,
+                    "md5": "bcd5c7b8a7dbf046e032cf04e7136024",
+                    "sha256": "9fec783646e59a3b357604dc04665fbf17bc9cea8c7e0aefd3ac3f6da5fc1301",
+                    "size": 1374503223
+                }
+            }
+        }
+    ]
+}

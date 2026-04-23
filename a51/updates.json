@@ -10,14 +10,14 @@
             "forum": "https://t.me/ExyROMs",
             "telegram": "https://t.me/ExyROMs",
             "variants": {
-                "coregapps": {
-                    "codename": "serenity",
-                    "version": "8.2",
-                    "filename": "AfterlifeOS_a51-8.2-serenity-official_20251230-coregapps.zip",
-                    "timestamp": 1767064419,
-                    "md5": "3db7c410d0a6f9968f0211c77d556635",
-                    "sha256": "5d0f112e7a7b35493cd68628182af1c40acd4bf1eb58228eb31d537db39257f5",
-                    "size": 1551760839
+                "vanilla": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_a51-8.4-ophelia-official_20260423-vanilla.zip",
+                    "timestamp": 1776923547,
+                    "md5": "3a755b38fdc2da3e42fb15d30dd24d65",
+                    "sha256": "fe1dc0dd18b2b1c304ab708e1dc44e58bab0d777a18500a31e0e926e45767f89",
+                    "size": 1241566327
                 }
             }
         }

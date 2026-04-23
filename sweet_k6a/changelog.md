@@ -7,7 +7,6 @@
 - Many changes were dropped for video stabilization
 - Fixed some issues,optimized rom
 - Performance has been improved
-- Initial Afterlife A16 QPR2 build
 ## Version - **8.3-lastblood**
 ### **Build date** - 4 March 2026
 - properties: Set persist.sys.purgeable_assets=1

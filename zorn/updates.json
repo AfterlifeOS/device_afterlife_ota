@@ -13,11 +13,11 @@
                 "gapps": {
                     "codename": "Ophelia",
                     "version": "8.4",
-                    "filename": "AfterlifeOS_zorn-8.4-ophelia-official_20260417-gapps.zip",
-                    "timestamp": 1776395626,
-                    "md5": "eb9e763337a3db30cfb07d892375d3ed",
-                    "sha256": "b6517f7bff645d84857c990e1941f4d71161dfb140016db4f7acfc1d5a0587e0",
-                    "size": 3472080292
+                    "filename": "AfterlifeOS_zorn-8.4-ophelia-official_20260424-gapps.zip",
+                    "timestamp": 1777038088,
+                    "md5": "1adc56397b1737e4fd1bf23711a648dd",
+                    "sha256": "22f99653df3f1c7aa6021bf624b6dc9af8c2c855cee48f6252ef1a4916e1c6eb",
+                    "size": 3693078585
                 }
             }
         }

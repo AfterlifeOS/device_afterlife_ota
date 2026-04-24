@@ -10,14 +10,14 @@
             "forum": "https://t.me/WYLxFERRARI",
             "telegram": "https://t.me/asmodeus_oos",
             "variants": {
-                "vanilla": {
-                    "codename": "LastBlood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_ferrari-8.3-lastblood-official_20260328-gapps.zip",
-                    "timestamp": 1774688023,
-                    "md5": "07a3ae16fff7bcb650035d05b6c889c7",
-                    "sha256": "f3f2a0cf56c2155f954b4e2457fd2c03140eefd5edb3640057813d489a496678",
-                    "size": 3195176314
+                "gapps": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_ferrari-8.4-ophelia-official_20260423-gapps.zip",
+                    "timestamp": 1776967084,
+                    "md5": "253d59d2266a07126547a7eeae7a5c96",
+                    "sha256": "e3ca977b21948b074b49f1053f43acfd94b0ead52a67cd9e237b7dabaf0386e5",
+                    "size": 3206061074
                 }
             }
         }

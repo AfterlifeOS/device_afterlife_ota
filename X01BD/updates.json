@@ -11,13 +11,22 @@
             "telegram": "https://t.me/queenserenade",
             "variants": {
                 "vanilla": {
-                    "codename": "LastBlood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_X01BD-8.3-lastblood-official_20260308-vanilla.zip",
-                    "timestamp": 1772968280,
-                    "md5": "b76d87814a353cd6665198a81e418988",
-                    "sha256": "82a0e35facd58fbf2081b1b6aa3c7ba342e2b7b39486e2b531479c60559a2124",
-                    "size": 1532081652
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_X01BD-8.4-ophelia-official_20260425-vanilla.zip",
+                    "timestamp": 1777098348,
+                    "md5": "6c6de39a78f39a28e08735741dda8da1",
+                    "sha256": "b9fe2a125c0e7c52a2c91ef897066837b2791200363b8a00be9436ba04b1c85a",
+                    "size": 1555523592
+                },
+                "gapps": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_X01BD-8.4-ophelia-official_20260425-gapps.zip",
+                    "timestamp": 1777117035,
+                    "md5": "cb738a17e70aa810073cd481a283a1c2",
+                    "sha256": "4a64c57bfed0929684a54306779c3336d73d450485fe257c106b293fc9b3617a",
+                    "size": 2202384357
                 }
             }
         }

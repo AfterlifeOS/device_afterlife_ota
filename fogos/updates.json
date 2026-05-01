@@ -1,0 +1,25 @@
+{
+    "response": [
+        {
+            "maintainer": "fawzydede",
+            "oem": "Motorola",
+            "device": "Motorola Moto G34/45 5G",
+            "device_code": "fogos",
+            "buildtype": "Official",
+            "download": "https://afterlifeos.com/download/?search=fogos",
+            "forum": "https://t.me/fogos_random",
+            "telegram": "https://t.me/fawzydede",
+            "variants": {
+                "gapps": {
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_fogos-8.4-ophelia-official_20260502-gapps.zip",
+                    "timestamp": 1777698372,
+                    "md5": "4aadcac1821bb3cf7fc2237d2efad94a",
+                    "sha256": "ccb3144cce86e2e6d713f8057df1f4e3ec3444aa417347ab4e20ab7a6a8a49b1",
+                    "size": 2556425154
+                }
+            }
+        }
+    ]
+}

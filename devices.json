@@ -479,6 +479,16 @@
             "image_url": "https://i.ibb.co.com/TxQxTHHc/xiaomi-xiaomi-redmi-pad-6-removebg-preview.png",
             "pling_id": "2356826",
             "status": "Active"
+        },
+        {
+            "name": "Motorola Moto G34/45 5G",
+            "codename": "fogos",
+            "brand": "Motorola",
+            "maintainer": "fawzydede",
+            "github_username": "fawzydede",
+            "image_url": "https://wiki.lineageos.org/images/devices/fogos.png",
+            "pling_id": "2357705",
+            "status": "Active"
         }
     ]
 }

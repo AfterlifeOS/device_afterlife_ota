@@ -11,13 +11,13 @@
             "telegram": "https://t.me/Hexdare",
             "variants": {
                 "gapps": {
-                    "codename": "lastblood",
-                    "version": "8.3",
-                    "filename": "AfterlifeOS_haydn-8.3-lastblood-official_20260312-gapps.zip",
-                    "timestamp": 1773310760,
-                    "md5": "3124af9808a7caa27f5bf4505d663f23",
-                    "sha256": "20b97ee88f0aa3428f8f306ae2a14642ed2859edd89da92de07293d3fd332314",
-                    "size": 2939030380
+                    "codename": "Ophelia",
+                    "version": "8.4",
+                    "filename": "AfterlifeOS_haydn-8.4-ophelia-official_20260428-gapps.zip",
+                    "timestamp": 1777391709,
+                    "md5": "69f57fcf4e289279f2a152a871ed61b2",
+                    "sha256": "aa4465d7ce9d980b440d9769b5f9456b80489f7a7d35d18ded314acc9ece50ab",
+                    "size": 2945891088
                 }
             }
         }
